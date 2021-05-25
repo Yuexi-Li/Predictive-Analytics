@@ -1,0 +1,501 @@
+Account.Balance,Duration.of.Credit.Month,Payment.Status.of.Previous.Credit,Purpose,Credit.Amount,Value.Savings.Stocks,Length.of.current.employment,Instalment.per.cent,Most.valuable.available.asset,Age.years,Type.of.apartment,No.of.Credits.at.this.Bank,Creidt__Creditworthy,Creidt__Non-Creditworthy,Data
+No Account,9,No Problems (in this bank),Home Related,2799,None,< 1yr,2,1,36,1,More than 1,0.914,0.086,TRUE
+No Account,12,No Problems (in this bank),Home Related,2122,None,< 1yr,3,1,39,1,More than 1,0.756,0.244,TRUE
+No Account,24,Paid Up,Home Related,3758,ý100-ý1000,< 1yr,1,4,23,1,1,0.64,0.36,TRUE
+No Account,11,No Problems (in this bank),Home Related,3905,None,< 1yr,2,1,36,1,More than 1,0.882,0.118,TRUE
+No Account,6,No Problems (in this bank),Home Related,1957,None,1-4 yrs,1,3,31,2,1,0.806,0.194,TRUE
+No Account,6,Paid Up,Home Related,2647,ý100-ý1000,< 1yr,2,1,44,1,1,0.868,0.132,TRUE
+No Account,36,No Problems (in this bank),Home Related,2337,None,4-7 yrs,4,1,36,2,1,0.642,0.358,TRUE
+Some Balance,11,No Problems (in this bank),Home Related,7228,None,< 1yr,1,2,39,2,More than 1,0.814,0.186,TRUE
+No Account,36,Paid Up,Home Related,2384,None,< 1yr,4,4,33,1,1,0.274,0.726,FALSE
+No Account,11,No Problems (in this bank),Home Related,4771,None,1-4 yrs,2,2,51,2,1,0.672,0.328,TRUE
+Some Balance,15,Paid Up,Home Related,3556,ý100-ý1000,< 1yr,3,4,29,2,1,0.868,0.132,TRUE
+Some Balance,42,No Problems (in this bank),New car,4796,None,4-7 yrs,4,4,56,3,1,0.824,0.176,TRUE
+Some Balance,36,No Problems (in this bank),Home Related,6614,None,4-7 yrs,4,3,34,2,More than 1,0.748,0.252,TRUE
+No Account,15,Paid Up,Home Related,1721,None,< 1yr,2,1,36,2,1,0.562,0.438,TRUE
+No Account,6,No Problems (in this bank),Home Related,860,None,4-7 yrs,1,4,39,2,More than 1,0.716,0.284,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,1495,None,4-7 yrs,4,1,38,2,More than 1,0.908,0.092,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,1934,None,4-7 yrs,2,4,26,2,More than 1,0.852,0.148,TRUE
+Some Balance,18,Paid Up,New car,3378,ý100-ý1000,< 1yr,2,2,31,2,1,0.896,0.104,TRUE
+No Account,24,Paid Up,Home Related,1755,None,4-7 yrs,4,1,58,2,1,0.79,0.21,TRUE
+No Account,18,Paid Up,Home Related,1239,ý100-ý1000,< 1yr,4,4,61,3,1,0.432,0.568,FALSE
+Some Balance,24,Paid Up,Home Related,1474,< ï¿½1,< 1yr,4,1,33,2,1,0.822,0.178,TRUE
+Some Balance,12,Paid Up,Home Related,640,None,< 1yr,4,1,49,2,1,0.746,0.254,TRUE
+Some Balance,36,Paid Up,Home Related,3919,None,< 1yr,2,1,23,2,1,0.81,0.19,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,2331,ý100-ý1000,4-7 yrs,1,1,49,2,1,0.818,0.182,TRUE
+Some Balance,24,Paid Up,New car,6313,ý100-ý1000,4-7 yrs,3,3,41,2,1,0.894,0.106,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,1655,None,4-7 yrs,2,1,63,2,More than 1,0.858,0.142,TRUE
+No Account,15,Paid Up,Home Related,1053,None,< 1yr,4,1,27,2,1,0.658,0.342,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,1163,ý100-ý1000,< 1yr,4,1,44,2,1,0.794,0.206,TRUE
+Some Balance,36,No Problems (in this bank),Home Related,10875,None,4-7 yrs,2,3,45,2,More than 1,0.71,0.29,TRUE
+No Account,12,No Problems (in this bank),Home Related,1344,None,< 1yr,4,1,43,2,More than 1,0.77,0.23,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,1237,< ï¿½1,< 1yr,1,2,27,2,More than 1,0.79,0.21,TRUE
+Some Balance,12,Paid Up,Home Related,3077,None,< 1yr,2,3,52,2,1,0.838,0.162,TRUE
+Some Balance,24,Paid Up,Home Related,2284,None,1-4 yrs,4,3,28,2,1,0.924,0.076,TRUE
+No Account,12,Paid Up,Home Related,1567,None,< 1yr,1,3,22,2,1,0.476,0.524,FALSE
+Some Balance,24,No Problems (in this bank),Home Related,2032,None,4-7 yrs,4,4,60,3,More than 1,0.916,0.084,TRUE
+No Account,21,No Problems (in this bank),Home Related,1602,None,4-7 yrs,4,3,30,2,More than 1,0.582,0.418,TRUE
+Some Balance,15,Paid Up,Home Related,1979,ý100-ý1000,4-7 yrs,4,3,35,2,1,0.922,0.078,TRUE
+Some Balance,36,No Problems (in this bank),Home Related,3342,ý100-ý1000,4-7 yrs,4,3,51,2,1,0.936,0.064,TRUE
+No Account,18,Paid Up,Home Related,5866,< ï¿½1,< 1yr,2,3,30,2,More than 1,0.596,0.404,TRUE
+Some Balance,15,No Problems (in this bank),New car,2360,ý100-ý1000,< 1yr,2,3,36,2,1,0.956,0.044,TRUE
+No Account,12,Paid Up,Home Related,3651,ý100-ý1000,< 1yr,1,2,31,2,1,0.778,0.222,TRUE
+No Account,18,No Problems (in this bank),Used car,6361,None,4-7 yrs,2,4,41,2,1,0.426,0.574,FALSE
+Some Balance,27,No Problems (in this bank),Used car,4526,ý100-ý1000,< 1yr,4,1,32,2,More than 1,0.91,0.09,TRUE
+No Account,9,Paid Up,Used car,2136,None,< 1yr,3,1,25,2,1,0.834,0.166,TRUE
+Some Balance,24,No Problems (in this bank),Used car,3777,ý100-ý1000,< 1yr,4,1,40,2,1,0.904,0.096,TRUE
+No Account,15,Paid Up,Home Related,806,None,< 1yr,4,2,22,2,1,0.482,0.518,FALSE
+No Account,24,No Problems (in this bank),Home Related,4712,ý100-ý1000,< 1yr,4,2,34,2,More than 1,0.5,0.5,FALSE
+Some Balance,12,No Problems (in this bank),Home Related,1412,None,< 1yr,4,1,29,2,More than 1,0.874,0.126,TRUE
+Some Balance,24,Paid Up,Home Related,1533,None,< 1yr,4,3,38,2,1,0.898,0.102,TRUE
+No Account,15,Paid Up,Home Related,3959,None,< 1yr,3,2,29,2,1,0.52,0.48,TRUE
+No Account,6,Paid Up,Used car,428,None,4-7 yrs,2,2,49,2,1,0.89,0.11,TRUE
+No Account,12,No Problems (in this bank),Home Related,2366,ý100-ý1000,1-4 yrs,3,3,36,2,1,0.878,0.122,TRUE
+No Account,18,Paid Up,Home Related,6260,None,1-4 yrs,3,1,28,1,1,0.6,0.4,TRUE
+Some Balance,24,Paid Up,New car,2603,ý100-ý1000,< 1yr,2,3,28,1,1,0.9,0.1,TRUE
+Some Balance,24,Paid Up,Used car,3062,ý100-ý1000,4-7 yrs,4,4,32,1,1,0.956,0.044,TRUE
+No Account,36,Paid Up,Home Related,4795,None,< 1yr,4,4,30,2,1,0.138,0.862,FALSE
+Some Balance,36,No Problems (in this bank),New car,5842,None,4-7 yrs,2,2,35,2,More than 1,0.908,0.092,TRUE
+Some Balance,15,Paid Up,Home Related,1213,ý100-ý1000,4-7 yrs,4,2,47,2,1,0.804,0.196,TRUE
+Some Balance,15,Paid Up,Home Related,874,ý100-ý1000,< 1yr,4,1,24,2,1,0.72,0.28,TRUE
+Some Balance,18,Paid Up,Home Related,1820,None,< 1yr,2,2,30,2,1,0.802,0.198,TRUE
+Some Balance,24,No Problems (in this bank),Home Related,3148,ý100-ý1000,< 1yr,3,3,31,2,More than 1,0.934,0.066,TRUE
+Some Balance,36,Paid Up,Home Related,3835,ý100-ý1000,4-7 yrs,2,1,45,2,1,0.936,0.064,TRUE
+Some Balance,9,Paid Up,Home Related,3832,ý100-ý1000,4-7 yrs,1,1,64,2,1,0.868,0.132,TRUE
+No Account,24,Paid Up,Home Related,5084,ý100-ý1000,4-7 yrs,2,3,42,2,1,0.632,0.368,TRUE
+Some Balance,21,Paid Up,New car,2476,ý100-ý1000,4-7 yrs,4,1,46,2,1,0.936,0.064,TRUE
+No Account,24,Paid Up,New car,2964,ý100-ý1000,4-7 yrs,4,4,49,3,1,0.686,0.314,TRUE
+No Account,12,Paid Up,Used car,1262,ý100-ý1000,4-7 yrs,2,2,49,2,1,0.82,0.18,TRUE
+Some Balance,12,Paid Up,Home Related,1542,None,1-4 yrs,2,3,36,2,1,0.91,0.09,TRUE
+Some Balance,12,Some Problems,Home Related,409,ý100-ý1000,< 1yr,3,1,42,1,More than 1,0.636,0.364,TRUE
+No Account,24,Paid Up,Home Related,3512,< ï¿½1,1-4 yrs,2,3,38,2,More than 1,0.804,0.196,TRUE
+No Account,12,Paid Up,Home Related,1498,None,< 1yr,4,3,23,2,1,0.294,0.706,FALSE
+No Account,48,Some Problems,Home Related,6416,None,4-7 yrs,4,4,59,1,1,0.202,0.798,FALSE
+No Account,12,No Problems (in this bank),Used car,3617,None,4-7 yrs,1,3,28,1,More than 1,0.772,0.228,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,1291,None,< 1yr,4,2,35,2,More than 1,0.86,0.14,TRUE
+Some Balance,24,Paid Up,Used car,3972,None,1-4 yrs,2,2,25,1,1,0.942,0.058,TRUE
+Some Balance,15,Paid Up,Home Related,392,None,< 1yr,4,2,23,1,1,0.78,0.22,TRUE
+Some Balance,30,No Problems (in this bank),Home Related,5771,None,1-4 yrs,4,3,25,2,More than 1,0.698,0.302,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,1382,None,< 1yr,1,3,28,2,More than 1,0.844,0.156,TRUE
+Some Balance,12,Paid Up,Home Related,1297,None,< 1yr,3,1,23,1,1,0.876,0.124,TRUE
+Some Balance,12,Paid Up,Home Related,1963,None,1-4 yrs,4,3,31,1,More than 1,0.87,0.13,TRUE
+No Account,12,No Problems (in this bank),New car,1804,< ï¿½1,< 1yr,3,2,44,2,1,0.86,0.14,TRUE
+Some Balance,18,Paid Up,Home Related,1950,None,1-4 yrs,4,3,34,2,More than 1,0.86,0.14,TRUE
+Some Balance,48,No Problems (in this bank),Home Related,12749,ý100-ý1000,1-4 yrs,4,3,37,2,1,0.784,0.216,TRUE
+Some Balance,9,Paid Up,Home Related,1236,None,< 1yr,1,1,23,1,1,0.902,0.098,TRUE
+No Account,30,Some Problems,Home Related,8072,ý100-ý1000,< 1yr,2,3,25,2,More than 1,0.568,0.432,TRUE
+Some Balance,30,No Problems (in this bank),Home Related,2831,None,< 1yr,4,3,33,2,1,0.704,0.296,TRUE
+Some Balance,36,Paid Up,Home Related,5742,< ï¿½1,1-4 yrs,2,3,31,2,More than 1,0.768,0.232,TRUE
+Some Balance,12,Paid Up,Home Related,2390,ý100-ý1000,4-7 yrs,4,3,50,2,1,0.872,0.128,TRUE
+Some Balance,21,Paid Up,Home Related,2923,< ï¿½1,< 1yr,1,3,28,2,1,0.852,0.148,TRUE
+No Account,48,Paid Up,Home Related,8487,ý100-ý1000,1-4 yrs,1,3,24,2,1,0.5,0.5,FALSE
+Some Balance,24,Paid Up,Home Related,2255,ý100-ý1000,< 1yr,4,2,54,2,1,0.76,0.24,TRUE
+Some Balance,18,No Problems (in this bank),Used car,1817,None,< 1yr,4,4,28,2,More than 1,0.872,0.128,TRUE
+Some Balance,18,Some Problems,Home Related,1445,ý100-ý1000,1-4 yrs,4,3,49,2,1,0.682,0.318,TRUE
+No Account,24,Paid Up,Used car,7721,ý100-ý1000,< 1yr,1,2,30,2,1,0.664,0.336,TRUE
+No Account,21,Paid Up,Home Related,3763,ý100-ý1000,1-4 yrs,2,1,24,2,1,0.802,0.198,TRUE
+No Account,15,Paid Up,Home Related,1444,ý100-ý1000,< 1yr,4,2,23,2,1,0.39,0.61,FALSE
+Some Balance,9,Paid Up,Home Related,2753,< ï¿½1,4-7 yrs,3,3,35,2,1,0.906,0.094,TRUE
+No Account,24,Some Problems,Used car,2483,ý100-ý1000,< 1yr,4,1,22,2,1,0.78,0.22,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,1299,None,< 1yr,1,1,74,2,More than 1,0.862,0.138,TRUE
+Some Balance,10,Paid Up,Home Related,1287,ý100-ý1000,4-7 yrs,4,2,45,2,1,0.762,0.238,TRUE
+No Account,18,Some Problems,Home Related,1940,None,< 1yr,3,4,36,3,1,0.252,0.748,FALSE
+Some Balance,24,No Problems (in this bank),New car,4679,None,1-4 yrs,3,3,35,2,More than 1,0.95,0.05,TRUE
+No Account,18,Paid Up,Used car,2659,ý100-ý1000,< 1yr,4,3,28,2,1,0.704,0.296,TRUE
+Some Balance,14,No Problems (in this bank),Home Related,802,None,< 1yr,4,3,27,2,More than 1,0.864,0.136,TRUE
+Some Balance,21,Paid Up,Home Related,1572,ý100-ý1000,4-7 yrs,4,1,36,2,1,0.914,0.086,TRUE
+Some Balance,6,Some Problems,Home Related,426,None,4-7 yrs,4,3,39,2,1,0.482,0.518,FALSE
+No Account,30,Paid Up,New car,3857,None,< 1yr,4,2,40,2,1,0.728,0.272,TRUE
+No Account,12,Paid Up,Home Related,685,None,1-4 yrs,2,3,25,2,1,0.424,0.576,FALSE
+No Account,24,Paid Up,Home Related,1603,None,4-7 yrs,4,3,55,2,1,0.594,0.406,TRUE
+Some Balance,4,Paid Up,Used car,601,None,< 1yr,1,1,23,1,1,0.948,0.052,TRUE
+Some Balance,15,No Problems (in this bank),Home Related,1316,ý100-ý1000,< 1yr,2,2,47,2,More than 1,0.784,0.216,TRUE
+Some Balance,60,Paid Up,Home Related,10366,None,4-7 yrs,2,2,42,2,1,0.716,0.284,TRUE
+Some Balance,18,Paid Up,Home Related,1568,< ï¿½1,< 1yr,3,2,24,1,1,0.766,0.234,TRUE
+Some Balance,18,No Problems (in this bank),Home Related,629,ý100-ý1000,4-7 yrs,4,2,32,2,More than 1,0.704,0.296,TRUE
+Some Balance,6,Some Problems,Home Related,1750,ý100-ý1000,4-7 yrs,2,2,45,2,1,0.718,0.282,TRUE
+Some Balance,24,Paid Up,New car,3488,< ï¿½1,1-4 yrs,3,3,23,2,1,0.972,0.028,TRUE
+No Account,15,Paid Up,Home Related,2631,< ï¿½1,< 1yr,3,1,25,2,1,0.58,0.42,TRUE
+Some Balance,21,Paid Up,New car,5248,ý100-ý1000,< 1yr,1,3,26,2,1,0.882,0.118,TRUE
+No Account,18,No Problems (in this bank),Home Related,6204,None,< 1yr,2,1,44,2,1,0.62,0.38,TRUE
+Some Balance,12,Paid Up,Home Related,804,None,4-7 yrs,4,3,38,2,1,0.492,0.508,FALSE
+No Account,15,No Problems (in this bank),Used car,3643,None,4-7 yrs,1,2,27,2,More than 1,0.756,0.244,TRUE
+Some Balance,10,No Problems (in this bank),Used car,2146,None,< 1yr,1,1,23,1,More than 1,0.926,0.074,TRUE
+Some Balance,5,Paid Up,Home Related,3448,None,1-4 yrs,1,1,74,2,1,0.876,0.124,TRUE
+Some Balance,15,Paid Up,Used car,2708,None,< 1yr,2,2,27,2,More than 1,0.93,0.07,TRUE
+Some Balance,22,Paid Up,Home Related,2675,ý100-ý1000,4-7 yrs,3,3,40,2,1,0.966,0.034,TRUE
+No Account,9,Paid Up,Home Related,2118,None,< 1yr,2,1,37,2,1,0.912,0.088,TRUE
+Some Balance,15,Some Problems,Home Related,1569,< ï¿½1,4-7 yrs,4,3,34,2,1,0.604,0.396,TRUE
+Some Balance,36,No Problems (in this bank),Used car,7678,ý100-ý1000,1-4 yrs,2,3,40,2,More than 1,0.876,0.124,TRUE
+Some Balance,12,Some Problems,Home Related,3447,ý100-ý1000,< 1yr,4,1,35,2,1,0.618,0.382,TRUE
+Some Balance,15,Paid Up,Home Related,3568,None,4-7 yrs,4,3,54,1,1,0.836,0.164,TRUE
+No Account,21,No Problems (in this bank),Home Related,3652,None,1-4 yrs,2,2,27,2,More than 1,0.592,0.408,TRUE
+No Account,24,Paid Up,Home Related,3660,None,< 1yr,2,3,28,2,1,0.628,0.372,TRUE
+Some Balance,9,Paid Up,Home Related,1126,< ï¿½1,4-7 yrs,2,1,49,2,1,0.796,0.204,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,683,None,< 1yr,2,2,29,2,1,0.832,0.168,TRUE
+Some Balance,12,Paid Up,Used car,2251,None,< 1yr,1,3,46,2,1,0.93,0.07,TRUE
+Some Balance,12,Paid Up,New car,4675,ý100-ý1000,< 1yr,1,3,20,1,1,0.848,0.152,TRUE
+No Account,21,No Problems (in this bank),Home Related,2353,None,< 1yr,1,2,47,2,More than 1,0.63,0.37,TRUE
+Some Balance,6,Paid Up,Home Related,672,None,< 1yr,1,1,54,2,1,0.89,0.11,TRUE
+No Account,6,No Problems (in this bank),Home Related,338,ý100-ý1000,4-7 yrs,4,3,52,2,More than 1,0.824,0.176,TRUE
+Some Balance,9,Paid Up,Home Related,2507,ý100-ý1000,4-7 yrs,2,4,51,3,1,0.864,0.136,TRUE
+Some Balance,15,No Problems (in this bank),Home Related,1478,None,< 1yr,4,1,33,2,More than 1,0.876,0.124,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,3565,ý100-ý1000,< 1yr,2,2,37,2,More than 1,0.818,0.182,TRUE
+Some Balance,9,Paid Up,Used car,2301,< ï¿½1,< 1yr,2,2,22,1,1,0.914,0.086,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,1743,< ï¿½1,< 1yr,1,1,34,2,More than 1,0.87,0.13,TRUE
+Some Balance,18,No Problems (in this bank),Home Related,2320,None,< 1yr,2,1,34,2,More than 1,0.734,0.266,TRUE
+Some Balance,24,Paid Up,Home Related,5152,None,1-4 yrs,4,3,25,2,1,0.832,0.168,TRUE
+Some Balance,9,No Problems (in this bank),Home Related,3074,ý100-ý1000,< 1yr,1,1,33,2,More than 1,0.908,0.092,TRUE
+Some Balance,6,Some Problems,Home Related,783,ý100-ý1000,< 1yr,1,1,26,2,1,0.622,0.378,TRUE
+No Account,21,Paid Up,Home Related,2606,None,< 1yr,4,2,28,1,1,0.438,0.562,FALSE
+Some Balance,54,Some Problems,New car,9436,ý100-ý1000,< 1yr,2,2,39,2,1,0.852,0.148,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,250,ý100-ý1000,< 1yr,2,1,41,2,More than 1,0.938,0.062,TRUE
+No Account,6,Paid Up,Home Related,662,None,< 1yr,3,1,41,2,1,0.892,0.108,TRUE
+Some Balance,24,Some Problems,Home Related,1559,None,1-4 yrs,4,3,40,2,1,0.626,0.374,TRUE
+Some Balance,12,Paid Up,Home Related,3016,None,< 1yr,3,3,24,2,1,0.892,0.108,TRUE
+Some Balance,6,Some Problems,Home Related,1204,< ï¿½1,< 1yr,4,4,35,1,1,0.51,0.49,TRUE
+Some Balance,10,Paid Up,Home Related,1597,ý100-ý1000,< 1yr,3,4,40,1,1,0.818,0.182,TRUE
+Some Balance,12,Paid Up,Home Related,2073,< ï¿½1,< 1yr,4,1,28,2,1,0.622,0.378,TRUE
+No Account,10,No Problems (in this bank),Used car,2132,ý100-ý1000,< 1yr,2,1,27,1,More than 1,0.744,0.256,TRUE
+Some Balance,10,Paid Up,Home Related,1418,< ï¿½1,< 1yr,3,1,35,1,1,0.776,0.224,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,1343,None,4-7 yrs,1,1,46,2,More than 1,0.908,0.092,TRUE
+Some Balance,18,Paid Up,Home Related,2662,ý100-ý1000,1-4 yrs,4,2,32,2,1,0.776,0.224,TRUE
+Some Balance,18,No Problems (in this bank),Home Related,6070,None,4-7 yrs,3,3,33,2,More than 1,0.762,0.238,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,1554,None,1-4 yrs,1,3,24,1,More than 1,0.89,0.11,TRUE
+No Account,9,No Problems (in this bank),Home Related,1288,< ï¿½1,4-7 yrs,3,1,48,2,More than 1,0.9,0.1,TRUE
+No Account,10,No Problems (in this bank),Home Related,1038,None,1-4 yrs,4,2,49,2,More than 1,0.908,0.092,TRUE
+Some Balance,10,Paid Up,New car,2848,< ï¿½1,< 1yr,1,1,32,2,1,0.884,0.116,TRUE
+Some Balance,12,Paid Up,New car,1413,ý100-ý1000,1-4 yrs,3,2,55,2,1,0.944,0.056,TRUE
+Some Balance,18,No Problems (in this bank),New car,3229,ý100-ý1000,< 1yr,2,4,38,2,1,0.924,0.076,TRUE
+Some Balance,9,Paid Up,Home Related,3577,< ï¿½1,< 1yr,1,1,26,1,1,0.854,0.146,TRUE
+Some Balance,10,Paid Up,Home Related,1924,None,< 1yr,1,2,38,2,1,0.902,0.098,TRUE
+Some Balance,10,Paid Up,Home Related,727,ý100-ý1000,4-7 yrs,4,4,46,3,1,0.626,0.374,TRUE
+Some Balance,10,No Problems (in this bank),Home Related,781,None,4-7 yrs,4,4,63,3,More than 1,0.77,0.23,TRUE
+Some Balance,10,No Problems (in this bank),Used car,2069,ý100-ý1000,< 1yr,2,3,26,2,More than 1,0.9,0.1,TRUE
+Some Balance,24,Paid Up,Home Related,1525,ý100-ý1000,1-4 yrs,4,3,34,2,1,0.98,0.02,TRUE
+Some Balance,48,No Problems (in this bank),Home Related,7629,ý100-ý1000,4-7 yrs,4,3,46,2,More than 1,0.758,0.242,TRUE
+No Account,12,No Problems (in this bank),Home Related,3499,None,< 1yr,3,1,29,2,More than 1,0.766,0.234,TRUE
+No Account,24,Paid Up,New car,2924,None,< 1yr,3,4,63,2,1,0.708,0.292,TRUE
+Some Balance,10,No Problems (in this bank),Home Related,1231,None,4-7 yrs,3,1,32,2,More than 1,0.902,0.098,TRUE
+Some Balance,15,No Problems (in this bank),Home Related,5045,ý100-ý1000,4-7 yrs,1,3,59,2,1,0.706,0.294,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,1255,None,4-7 yrs,4,1,61,2,More than 1,0.92,0.08,TRUE
+Some Balance,12,Some Problems,Used car,2759,None,4-7 yrs,2,2,34,2,More than 1,0.724,0.276,TRUE
+No Account,15,Paid Up,Home Related,1403,None,< 1yr,2,3,28,1,1,0.368,0.632,FALSE
+No Account,24,Paid Up,Home Related,6568,None,< 1yr,2,3,21,2,1,0.424,0.576,FALSE
+No Account,24,No Problems (in this bank),New car,7758,ý100-ý1000,4-7 yrs,2,4,29,1,1,0.62,0.38,TRUE
+Some Balance,21,No Problems (in this bank),Used car,1591,< ï¿½1,1-4 yrs,4,1,34,2,More than 1,0.874,0.126,TRUE
+No Account,27,Paid Up,Home Related,3416,None,< 1yr,3,3,27,2,1,0.52,0.48,TRUE
+No Account,15,Paid Up,Home Related,1514,< ï¿½1,< 1yr,4,1,22,2,1,0.464,0.536,FALSE
+Some Balance,30,No Problems (in this bank),Home Related,6742,ý100-ý1000,1-4 yrs,2,2,36,2,More than 1,0.76,0.24,TRUE
+No Account,9,Paid Up,Home Related,458,None,< 1yr,4,1,24,2,1,0.834,0.166,TRUE
+No Account,9,Paid Up,Used car,918,None,< 1yr,4,2,30,2,1,0.876,0.124,TRUE
+No Account,24,Paid Up,New car,2812,ý100-ý1000,4-7 yrs,2,1,26,1,1,0.78,0.22,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,1480,ý100-ý1000,< 1yr,2,4,66,3,More than 1,0.778,0.222,TRUE
+No Account,9,Paid Up,Home Related,1206,None,4-7 yrs,4,1,25,2,1,0.784,0.216,TRUE
+Some Balance,12,Paid Up,Home Related,707,None,< 1yr,4,1,30,2,More than 1,0.882,0.118,TRUE
+No Account,12,Paid Up,Home Related,6078,None,1-4 yrs,2,3,32,2,1,0.542,0.458,TRUE
+No Account,27,Paid Up,Home Related,2528,None,< 1yr,4,2,32,2,1,0.518,0.482,TRUE
+No Account,6,Paid Up,New car,1352,ý100-ý1000,< 1yr,1,2,23,1,1,0.766,0.234,TRUE
+Some Balance,24,Paid Up,Home Related,3181,None,< 1yr,4,2,26,2,1,0.886,0.114,TRUE
+No Account,48,Paid Up,Home Related,5381,ý100-ý1000,< 1yr,3,4,40,3,1,0.624,0.376,TRUE
+No Account,18,Paid Up,Home Related,1913,ý100-ý1000,< 1yr,3,1,36,2,1,0.564,0.436,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,976,ý100-ý1000,4-7 yrs,4,3,35,2,More than 1,0.88,0.12,TRUE
+Some Balance,24,No Problems (in this bank),Home Related,2375,ý100-ý1000,< 1yr,4,3,44,2,More than 1,0.768,0.232,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,522,ý100-ý1000,4-7 yrs,4,2,42,2,More than 1,0.78,0.22,TRUE
+Some Balance,18,No Problems (in this bank),Home Related,1169,ý100-ý1000,< 1yr,4,2,29,2,More than 1,0.732,0.268,TRUE
+No Account,15,No Problems (in this bank),Used car,1478,None,4-7 yrs,4,3,44,2,More than 1,0.694,0.306,TRUE
+Some Balance,12,Paid Up,Home Related,776,None,< 1yr,4,1,28,2,1,0.832,0.168,TRUE
+No Account,16,No Problems (in this bank),Home Related,1175,None,< 1yr,2,3,68,3,More than 1,0.588,0.412,TRUE
+Some Balance,12,Paid Up,Home Related,2133,ý100-ý1000,4-7 yrs,4,4,52,3,1,0.89,0.11,TRUE
+Some Balance,30,No Problems (in this bank),Home Related,4530,None,1-4 yrs,4,3,26,1,1,0.726,0.274,TRUE
+No Account,18,No Problems (in this bank),Home Related,1887,ý100-ý1000,< 1yr,4,1,28,2,More than 1,0.478,0.522,FALSE
+Some Balance,12,No Problems (in this bank),Home Related,1264,ý100-ý1000,4-7 yrs,4,4,57,1,1,0.844,0.156,TRUE
+Some Balance,15,No Problems (in this bank),Home Related,1532,< ï¿½1,< 1yr,4,3,31,2,1,0.708,0.292,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,935,None,< 1yr,3,1,24,2,1,0.936,0.064,TRUE
+No Account,27,No Problems (in this bank),Home Related,2442,None,4-7 yrs,4,3,43,2,More than 1,0.546,0.454,TRUE
+No Account,39,No Problems (in this bank),Used car,14179,ý100-ý1000,1-4 yrs,4,2,30,2,More than 1,0.458,0.542,FALSE
+Some Balance,12,No Problems (in this bank),Home Related,618,None,4-7 yrs,4,1,56,2,1,0.778,0.222,TRUE
+Some Balance,12,Paid Up,Used car,1574,None,< 1yr,4,1,50,2,1,0.942,0.058,TRUE
+Some Balance,36,Paid Up,New car,4686,None,< 1yr,2,4,32,3,1,0.906,0.094,TRUE
+No Account,9,Paid Up,Home Related,790,ý100-ý1000,< 1yr,4,1,66,2,1,0.79,0.21,TRUE
+No Account,14,Paid Up,Home Related,3973,None,< 1yr,1,4,22,3,1,0.594,0.406,TRUE
+No Account,20,No Problems (in this bank),Home Related,2629,None,< 1yr,2,3,29,2,More than 1,0.424,0.576,FALSE
+No Account,18,Paid Up,Home Related,1941,ý100-ý1000,< 1yr,4,2,35,2,1,0.582,0.418,TRUE
+No Account,24,No Problems (in this bank),Used car,2333,ý100-ý1000,< 1yr,4,2,29,2,1,0.702,0.298,TRUE
+Some Balance,12,Paid Up,New car,2445,ý100-ý1000,< 1yr,2,3,26,1,1,0.892,0.108,TRUE
+No Account,20,Paid Up,New car,6468,ý100-ý1000,< 1yr,1,1,60,2,1,0.694,0.306,TRUE
+Some Balance,15,Paid Up,New car,3812,< ï¿½1,< 1yr,1,3,23,2,1,0.918,0.082,TRUE
+No Account,12,Paid Up,New car,2028,ý100-ý1000,< 1yr,4,3,30,2,1,0.78,0.22,TRUE
+Some Balance,15,Paid Up,Home Related,5324,ý100-ý1000,4-7 yrs,1,4,35,3,1,0.822,0.178,TRUE
+Some Balance,12,Paid Up,Home Related,1393,None,4-7 yrs,4,2,47,2,More than 1,0.826,0.174,TRUE
+Some Balance,36,Paid Up,Home Related,7409,ý100-ý1000,4-7 yrs,3,2,37,2,More than 1,0.814,0.186,TRUE
+Some Balance,15,Paid Up,Used car,2186,ý100-ý1000,1-4 yrs,1,1,33,1,1,0.938,0.062,TRUE
+Some Balance,18,Paid Up,Used car,3422,None,4-7 yrs,4,2,47,2,More than 1,0.904,0.096,TRUE
+No Account,18,Paid Up,Home Related,3872,None,< 1yr,2,3,67,2,1,0.56,0.44,TRUE
+Some Balance,27,Paid Up,Home Related,5190,ý100-ý1000,4-7 yrs,4,2,48,2,More than 1,0.718,0.282,TRUE
+No Account,18,Paid Up,Used car,3001,None,1-4 yrs,2,1,40,1,1,0.824,0.176,TRUE
+Some Balance,24,No Problems (in this bank),Home Related,3863,None,< 1yr,1,4,32,3,1,0.904,0.096,TRUE
+Some Balance,12,No Problems (in this bank),Used car,1592,ý100-ý1000,1-4 yrs,3,2,35,2,1,0.976,0.024,TRUE
+Some Balance,18,No Problems (in this bank),Used car,3780,None,< 1yr,3,3,35,2,More than 1,0.936,0.064,TRUE
+Some Balance,12,Paid Up,Home Related,1076,None,< 1yr,2,1,26,2,1,0.886,0.114,TRUE
+Some Balance,18,Paid Up,Home Related,2051,None,< 1yr,4,1,33,2,1,0.5,0.5,FALSE
+No Account,18,Some Problems,Home Related,3104,None,1-4 yrs,3,2,31,2,1,0.474,0.526,FALSE
+Some Balance,24,No Problems (in this bank),Home Related,2611,None,4-7 yrs,4,1,46,2,More than 1,0.862,0.138,TRUE
+No Account,12,Paid Up,Home Related,1680,ý100-ý1000,4-7 yrs,3,1,35,2,1,0.804,0.196,TRUE
+Some Balance,6,Paid Up,Home Related,1595,None,1-4 yrs,3,2,51,2,1,0.938,0.062,TRUE
+Some Balance,24,No Problems (in this bank),Home Related,2058,None,< 1yr,4,1,33,2,More than 1,0.778,0.222,TRUE
+Some Balance,24,Paid Up,New car,7814,None,1-4 yrs,3,3,38,2,1,0.92,0.08,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,1740,None,4-7 yrs,2,1,30,1,More than 1,0.892,0.108,TRUE
+Some Balance,24,No Problems (in this bank),New car,6842,ý100-ý1000,< 1yr,2,2,46,2,More than 1,0.84,0.16,TRUE
+Some Balance,24,No Problems (in this bank),Used car,5150,None,4-7 yrs,4,3,33,2,1,0.854,0.146,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,2080,ý100-ý1000,< 1yr,1,3,24,2,1,0.798,0.202,TRUE
+No Account,24,No Problems (in this bank),Home Related,3878,< ï¿½1,< 1yr,4,3,37,2,1,0.692,0.308,TRUE
+Some Balance,36,Paid Up,Home Related,1819,None,< 1yr,4,4,37,3,1,0.798,0.202,TRUE
+Some Balance,36,No Problems (in this bank),Used car,7127,None,< 1yr,2,2,23,1,More than 1,0.658,0.342,TRUE
+Some Balance,36,Paid Up,Used car,3349,None,< 1yr,4,3,28,2,1,0.876,0.124,TRUE
+Some Balance,36,Paid Up,Used car,10974,None,< 1yr,4,3,26,2,More than 1,0.588,0.412,TRUE
+Some Balance,6,Paid Up,Home Related,518,None,< 1yr,3,1,29,2,1,0.964,0.036,TRUE
+Some Balance,18,Paid Up,Home Related,1126,ý100-ý1000,< 1yr,4,1,21,1,1,0.74,0.26,TRUE
+Some Balance,18,Paid Up,Home Related,1505,None,< 1yr,4,4,32,3,1,0.866,0.134,TRUE
+Some Balance,4,No Problems (in this bank),Home Related,1503,None,1-4 yrs,2,1,42,2,More than 1,0.956,0.044,TRUE
+Some Balance,12,Paid Up,Home Related,1881,None,< 1yr,2,3,44,1,1,0.82,0.18,TRUE
+No Account,18,No Problems (in this bank),Home Related,1880,None,1-4 yrs,4,2,32,2,More than 1,0.684,0.316,TRUE
+No Account,18,Paid Up,Home Related,2389,None,< 1yr,4,3,27,2,1,0.488,0.512,FALSE
+Some Balance,4,No Problems (in this bank),Home Related,1455,None,1-4 yrs,2,1,42,2,More than 1,0.962,0.038,TRUE
+No Account,18,Some Problems,Used car,3244,None,< 1yr,1,3,33,2,More than 1,0.488,0.512,FALSE
+No Account,48,Paid Up,Home Related,3979,ý100-ý1000,1-4 yrs,4,3,41,2,More than 1,0.626,0.374,TRUE
+No Account,12,Paid Up,Used car,1922,None,< 1yr,4,2,37,2,1,0.904,0.096,TRUE
+No Account,18,No Problems (in this bank),Used car,1295,None,< 1yr,4,2,27,2,More than 1,0.686,0.314,TRUE
+No Account,30,Paid Up,Home Related,1715,ý100-ý1000,< 1yr,4,3,26,2,1,0.426,0.574,FALSE
+Some Balance,10,No Problems (in this bank),Home Related,1347,ý100-ý1000,1-4 yrs,4,2,27,2,More than 1,0.764,0.236,TRUE
+No Account,12,Paid Up,Home Related,1007,ý100-ý1000,< 1yr,4,1,22,2,1,0.558,0.442,TRUE
+Some Balance,12,No Problems (in this bank),Home Related,2096,None,1-4 yrs,2,1,49,2,1,0.854,0.146,TRUE
+Some Balance,12,Paid Up,Home Related,1101,None,< 1yr,3,1,27,2,More than 1,0.946,0.054,TRUE
+Some Balance,10,Paid Up,Home Related,894,ý100-ý1000,1-4 yrs,4,2,40,2,1,0.7,0.3,TRUE
+No Account,48,Some Problems,Home Related,8358,ý100-ý1000,< 1yr,1,3,30,2,More than 1,0.538,0.462,TRUE
+No Account,60,Paid Up,Home Related,7408,< ï¿½1,< 1yr,4,2,24,2,1,0.464,0.536,FALSE
+No Account,36,No Problems (in this bank),Home Related,9857,< ï¿½1,1-4 yrs,1,2,31,2,More than 1,0.55,0.45,TRUE
+Some Balance,12,No Problems (in this bank),Used car,1935,None,4-7 yrs,4,1,43,2,More than 1,0.92,0.08,TRUE
+Some Balance,48,Paid Up,Home Related,10222,ý100-ý1000,1-4 yrs,4,3,37,2,1,0.786,0.214,TRUE
+Some Balance,36,Paid Up,Home Related,9055,ý100-ý1000,< 1yr,2,4,35,3,1,0.868,0.132,TRUE
+No Account,30,Some Problems,Used car,3496,ý100-ý1000,< 1yr,4,3,34,2,1,0.568,0.432,TRUE
+No Account,36,Paid Up,Used car,3446,None,4-7 yrs,4,3,42,2,1,0.552,0.448,TRUE
+No Account,12,Paid Up,Home Related,684,None,< 1yr,4,3,40,1,1,0.366,0.634,FALSE
+No Account,24,Paid Up,Used car,2359,< ï¿½1,< 1yr,1,2,33,2,1,0.842,0.158,TRUE
+Some Balance,24,Paid Up,Home Related,3621,< ï¿½1,4-7 yrs,2,3,31,2,More than 1,0.892,0.108,TRUE
+No Account,12,Paid Up,Home Related,741,< ï¿½1,< 1yr,4,2,22,2,1,0.404,0.596,FALSE
+No Account,12,Paid Up,Used car,7865,None,4-7 yrs,4,4,53,3,1,0.468,0.532,FALSE
+No Account,18,No Problems (in this bank),Home Related,5302,None,4-7 yrs,2,4,36,3,More than 1,0.53,0.47,TRUE
+No Account,18,Paid Up,Home Related,3509,None,1-4 yrs,4,1,25,2,1,0.68,0.32,TRUE
+No Account,12,Paid Up,Used car,1657,None,< 1yr,2,1,27,2,1,0.776,0.224,TRUE
+No Account,36,No Problems (in this bank),Used car,6229,None,< 1yr,4,4,23,1,More than 1,0.22,0.78,FALSE
+No Account,30,Some Problems,Used car,4583,None,< 1yr,2,1,32,2,More than 1,0.464,0.536,FALSE
+No Account,36,No Problems (in this bank),Used car,5371,None,< 1yr,3,2,28,2,More than 1,0.214,0.786,FALSE
+No Account,36,Paid Up,Used car,2712,None,4-7 yrs,2,2,41,2,1,0.754,0.246,TRUE
+No Account,6,No Problems (in this bank),Used car,1050,None,< 1yr,4,2,35,2,More than 1,0.914,0.086,TRUE
+No Account,6,No Problems (in this bank),Home Related,609,None,1-4 yrs,4,2,37,2,More than 1,0.864,0.136,TRUE
+No Account,24,Paid Up,Used car,3069,< ï¿½1,4-7 yrs,4,4,30,3,1,0.758,0.242,TRUE
+No Account,12,Paid Up,Home Related,836,< ï¿½1,< 1yr,4,2,23,2,1,0.442,0.558,FALSE
+No Account,15,Paid Up,Used car,1845,None,< 1yr,4,2,46,1,1,0.714,0.286,TRUE
+No Account,24,Paid Up,New car,6579,None,< 1yr,4,4,29,3,1,0.546,0.454,TRUE
+No Account,30,Paid Up,Used car,3108,None,< 1yr,2,2,31,2,1,0.736,0.264,TRUE
+Some Balance,24,No Problems (in this bank),Home Related,6314,None,< 1yr,4,4,27,2,More than 1,0.68,0.32,TRUE
+No Account,12,Paid Up,Used car,3590,None,< 1yr,2,2,29,2,1,0.884,0.116,TRUE
+No Account,6,No Problems (in this bank),Used car,1872,None,< 1yr,4,4,36,3,More than 1,0.838,0.162,TRUE
+Some Balance,6,Paid Up,Home Related,1238,ý100-ý1000,< 1yr,4,2,36,2,1,0.746,0.254,TRUE
+No Account,12,Paid Up,Used car,2578,None,< 1yr,3,4,55,3,1,0.74,0.26,TRUE
+No Account,15,No Problems (in this bank),Used car,1433,None,< 1yr,4,2,25,1,More than 1,0.716,0.284,TRUE
+No Account,42,Paid Up,Used car,7882,None,1-4 yrs,2,2,45,3,1,0.448,0.552,FALSE
+No Account,24,Paid Up,Used car,4169,None,< 1yr,4,2,28,2,1,0.598,0.402,TRUE
+No Account,36,Paid Up,Used car,3959,None,< 1yr,4,2,30,2,1,0.398,0.602,FALSE
+No Account,36,Paid Up,Home Related,3249,None,1-4 yrs,2,4,39,3,1,0.58,0.42,TRUE
+No Account,24,Paid Up,Used car,3149,None,< 1yr,4,4,22,3,1,0.646,0.354,TRUE
+No Account,13,No Problems (in this bank),Home Related,1797,None,< 1yr,3,2,28,2,More than 1,0.768,0.232,TRUE
+No Account,20,No Problems (in this bank),Used car,4272,None,4-7 yrs,1,2,24,2,More than 1,0.604,0.396,TRUE
+No Account,24,No Problems (in this bank),New car,2957,None,4-7 yrs,4,2,63,2,More than 1,0.856,0.144,TRUE
+Some Balance,42,Some Problems,Home Related,6289,None,< 1yr,2,2,33,2,More than 1,0.622,0.378,TRUE
+No Account,36,Paid Up,Home Related,15857,None,< 1yr,2,3,43,2,1,0.226,0.774,FALSE
+Some Balance,24,No Problems (in this bank),Home Related,2223,< ï¿½1,4-7 yrs,4,2,52,2,More than 1,0.894,0.106,TRUE
+No Account,30,No Problems (in this bank),Home Related,2503,< ï¿½1,4-7 yrs,4,2,41,2,More than 1,0.714,0.286,TRUE
+No Account,6,Paid Up,Home Related,368,ý100-ý1000,4-7 yrs,4,2,38,2,1,0.794,0.206,TRUE
+Some Balance,24,No Problems (in this bank),Home Related,2424,ý100-ý1000,4-7 yrs,4,2,53,2,More than 1,0.93,0.07,TRUE
+No Account,18,No Problems (in this bank),Home Related,2427,ý100-ý1000,4-7 yrs,4,2,42,2,More than 1,0.758,0.242,TRUE
+No Account,24,No Problems (in this bank),Home Related,1216,< ï¿½1,< 1yr,4,4,38,2,More than 1,0.588,0.412,TRUE
+No Account,6,Paid Up,Home Related,753,None,< 1yr,2,1,64,2,1,0.9,0.1,TRUE
+No Account,6,Paid Up,Home Related,590,None,< 1yr,3,1,26,2,1,0.936,0.064,TRUE
+No Account,8,No Problems (in this bank),Home Related,713,None,4-7 yrs,4,1,47,2,More than 1,0.958,0.042,TRUE
+No Account,12,Paid Up,Home Related,1092,None,< 1yr,4,1,49,2,More than 1,0.706,0.294,TRUE
+No Account,7,Paid Up,Home Related,2329,None,< 1yr,1,1,45,2,1,0.934,0.066,TRUE
+No Account,13,No Problems (in this bank),Home Related,882,None,< 1yr,4,1,23,2,More than 1,0.752,0.248,TRUE
+No Account,7,Paid Up,Home Related,2415,None,< 1yr,3,1,34,2,1,0.94,0.06,TRUE
+No Account,13,Paid Up,Home Related,2101,None,< 1yr,2,2,23,2,1,0.552,0.448,TRUE
+No Account,18,Paid Up,Home Related,1113,None,< 1yr,4,1,26,2,1,0.574,0.426,TRUE
+Some Balance,6,No Problems (in this bank),Home Related,1323,< ï¿½1,4-7 yrs,2,3,28,2,More than 1,0.834,0.166,TRUE
+No Account,15,No Problems (in this bank),Home Related,2728,ý100-ý1000,1-4 yrs,4,1,35,2,More than 1,0.814,0.186,TRUE
+No Account,10,Some Problems,Home Related,1048,None,< 1yr,4,1,23,2,1,0.42,0.58,FALSE
+No Account,12,Paid Up,Home Related,1155,None,4-7 yrs,3,1,40,2,More than 1,0.748,0.252,TRUE
+No Account,20,No Problems (in this bank),New car,7057,ý100-ý1000,1-4 yrs,3,2,36,1,More than 1,0.764,0.236,TRUE
+No Account,15,No Problems (in this bank),Home Related,1537,ý100-ý1000,4-7 yrs,4,1,50,2,More than 1,0.81,0.19,TRUE
+No Account,12,Paid Up,Home Related,2214,None,< 1yr,4,2,24,2,1,0.586,0.414,TRUE
+Some Balance,24,No Problems (in this bank),Used car,1585,None,1-4 yrs,4,2,40,2,More than 1,0.96,0.04,TRUE
+No Account,10,Paid Up,Used car,1521,None,< 1yr,4,3,31,2,1,0.79,0.21,TRUE
+No Account,36,Some Problems,Home Related,3990,ý100-ý1000,< 1yr,3,4,29,2,1,0.508,0.492,TRUE
+Some Balance,18,Paid Up,Used car,3049,None,< 1yr,1,2,45,2,1,0.936,0.064,TRUE
+No Account,24,Paid Up,Home Related,1282,< ï¿½1,< 1yr,4,3,32,2,1,0.496,0.504,FALSE
+Some Balance,60,Paid Up,Home Related,10144,< ï¿½1,1-4 yrs,2,1,21,2,1,0.722,0.278,TRUE
+No Account,12,Paid Up,Home Related,1168,None,< 1yr,4,1,27,2,1,0.564,0.436,TRUE
+Some Balance,12,Paid Up,Used car,1768,None,< 1yr,3,1,24,1,1,0.97,0.03,TRUE
+Some Balance,60,No Problems (in this bank),Home Related,15653,None,1-4 yrs,2,3,21,2,More than 1,0.546,0.454,TRUE
+No Account,36,Paid Up,New car,8335,ý100-ý1000,4-7 yrs,3,4,47,3,1,0.552,0.448,TRUE
+No Account,36,No Problems (in this bank),New car,5800,None,< 1yr,3,3,34,2,More than 1,0.606,0.394,TRUE
+No Account,18,No Problems (in this bank),Home Related,8471,ý100-ý1000,< 1yr,1,3,23,1,More than 1,0.474,0.526,FALSE
+No Account,30,Paid Up,Used car,3622,ý100-ý1000,4-7 yrs,4,2,57,1,More than 1,0.75,0.25,TRUE
+No Account,6,No Problems (in this bank),Home Related,1169,ý100-ý1000,4-7 yrs,4,1,67,2,More than 1,0.868,0.132,TRUE
+Some Balance,15,Paid Up,Home Related,1262,ý100-ý1000,1-4 yrs,4,2,36,2,More than 1,0.894,0.106,TRUE
+No Account,42,No Problems (in this bank),Home Related,3394,None,< 1yr,4,3,65,2,More than 1,0.332,0.668,FALSE
+Some Balance,36,No Problems (in this bank),Home Related,6304,ý100-ý1000,4-7 yrs,4,1,36,2,More than 1,0.814,0.186,TRUE
+Some Balance,6,Paid Up,Home Related,3518,None,< 1yr,2,2,26,1,1,0.88,0.12,TRUE
+No Account,72,Paid Up,Home Related,5595,< ï¿½1,< 1yr,2,3,24,2,1,0.506,0.494,TRUE
+Some Balance,21,No Problems (in this bank),New car,2993,None,< 1yr,3,1,28,2,More than 1,0.912,0.088,TRUE
+Some Balance,36,No Problems (in this bank),New car,8947,ý100-ý1000,1-4 yrs,3,3,31,2,1,0.916,0.084,TRUE
+No Account,18,Paid Up,New car,2779,None,< 1yr,1,3,21,1,1,0.772,0.228,TRUE
+No Account,42,Some Problems,New car,9283,None,< 1yr,1,4,55,3,1,0.424,0.576,FALSE
+Some Balance,15,No Problems (in this bank),New car,3368,ý100-ý1000,4-7 yrs,3,4,23,1,More than 1,0.962,0.038,TRUE
+No Account,36,Paid Up,New car,5493,None,4-7 yrs,2,4,42,3,1,0.532,0.468,TRUE
+No Account,9,Paid Up,Home Related,1082,None,4-7 yrs,4,3,37,2,More than 1,0.678,0.322,TRUE
+No Account,20,Some Problems,New car,6148,< ï¿½1,4-7 yrs,3,3,31,2,More than 1,0.678,0.322,TRUE
+Some Balance,12,Paid Up,Home Related,3059,ý100-ý1000,1-4 yrs,2,1,61,2,1,0.88,0.12,TRUE
+No Account,24,Paid Up,Used car,2996,ý100-ý1000,< 1yr,2,3,20,2,1,0.744,0.256,TRUE
+Some Balance,30,No Problems (in this bank),New car,7596,ý100-ý1000,4-7 yrs,1,3,63,2,More than 1,0.77,0.23,TRUE
+Some Balance,6,Paid Up,Used car,1766,None,< 1yr,1,2,21,1,1,0.934,0.066,TRUE
+No Account,24,Paid Up,New car,2760,ý100-ý1000,4-7 yrs,4,4,36,3,1,0.764,0.236,TRUE
+No Account,9,Paid Up,Home Related,654,None,< 1yr,4,3,28,2,1,0.58,0.42,TRUE
+No Account,9,No Problems (in this bank),Home Related,1136,ý100-ý1000,4-7 yrs,4,4,32,3,More than 1,0.764,0.236,TRUE
+No Account,24,No Problems (in this bank),Home Related,1199,None,4-7 yrs,4,3,60,2,More than 1,0.654,0.346,TRUE
+No Account,12,Some Problems,Home Related,1082,None,< 1yr,4,3,48,2,More than 1,0.392,0.608,FALSE
+No Account,18,Paid Up,Home Related,2600,None,< 1yr,4,4,65,3,More than 1,0.474,0.526,FALSE
+Some Balance,21,Some Problems,Home Related,5003,ý100-ý1000,< 1yr,1,2,29,2,More than 1,0.558,0.442,TRUE
+Some Balance,24,No Problems (in this bank),Home Related,2538,None,4-7 yrs,4,3,47,2,More than 1,0.88,0.12,TRUE
+Some Balance,9,Paid Up,Home Related,1478,None,1-4 yrs,4,3,22,2,1,0.84,0.16,TRUE
+No Account,39,No Problems (in this bank),Home Related,4933,None,1-4 yrs,2,1,25,2,More than 1,0.312,0.688,FALSE
+Some Balance,18,No Problems (in this bank),Home Related,1530,None,< 1yr,3,2,32,2,More than 1,0.848,0.152,TRUE
+No Account,15,Paid Up,Home Related,1275,ý100-ý1000,< 1yr,4,3,24,1,1,0.354,0.646,FALSE
+No Account,24,Paid Up,Home Related,1823,None,< 1yr,4,3,30,2,1,0.412,0.588,FALSE
+No Account,9,Paid Up,Home Related,1422,None,< 1yr,3,4,27,3,1,0.604,0.396,TRUE
+No Account,36,Paid Up,Home Related,9271,None,1-4 yrs,2,3,24,2,1,0.254,0.746,FALSE
+No Account,6,No Problems (in this bank),Used car,3384,None,< 1yr,1,1,44,1,1,0.932,0.068,TRUE
+No Account,18,No Problems (in this bank),Home Related,1245,None,< 1yr,4,3,33,2,1,0.386,0.614,FALSE
+Some Balance,15,Paid Up,Home Related,4623,< ï¿½1,< 1yr,3,2,40,2,1,0.762,0.238,TRUE
+No Account,30,No Problems (in this bank),Used car,8386,None,1-4 yrs,2,2,49,2,1,0.522,0.478,TRUE
+No Account,24,No Problems (in this bank),Home Related,1024,None,< 1yr,4,1,48,2,1,0.646,0.354,TRUE
+No Account,12,Some Problems,Home Related,2149,None,< 1yr,4,4,29,3,1,0.348,0.652,FALSE
+Some Balance,24,Paid Up,Home Related,2397,ý100-ý1000,4-7 yrs,3,3,35,2,More than 1,0.978,0.022,TRUE
+No Account,6,Some Problems,Home Related,931,< ï¿½1,< 1yr,1,2,32,2,1,0.458,0.542,FALSE
+No Account,24,Some Problems,Used car,6872,None,< 1yr,2,2,55,2,1,0.494,0.506,FALSE
+No Account,12,Paid Up,Home Related,795,None,< 1yr,4,2,53,2,1,0.546,0.454,TRUE
+No Account,36,Some Problems,Home Related,1953,None,4-7 yrs,4,4,61,3,1,0.21,0.79,FALSE
+Some Balance,21,No Problems (in this bank),Home Related,2319,None,< 1yr,2,3,33,1,1,0.708,0.292,TRUE
+No Account,24,Paid Up,Home Related,915,ý100-ý1000,4-7 yrs,4,3,29,2,1,0.662,0.338,TRUE
+No Account,24,Paid Up,Home Related,1381,ý100-ý1000,< 1yr,4,2,35,2,1,0.52,0.48,TRUE
+No Account,24,Paid Up,Home Related,1285,ý100-ý1000,1-4 yrs,4,4,32,1,1,0.59,0.41,TRUE
+No Account,18,Paid Up,Home Related,1042,ý100-ý1000,< 1yr,4,2,33,2,1,0.57,0.43,TRUE
+No Account,24,Paid Up,Home Related,1207,None,< 1yr,4,2,24,1,1,0.54,0.46,TRUE
+No Account,18,Some Problems,Home Related,2278,< ï¿½1,< 1yr,3,3,28,2,More than 1,0.528,0.472,TRUE
+No Account,24,Paid Up,Used car,3345,None,4-7 yrs,4,2,39,1,1,0.792,0.208,TRUE
+No Account,6,Some Problems,Home Related,1198,None,4-7 yrs,4,4,35,3,1,0.424,0.576,FALSE
+Some Balance,18,Paid Up,Home Related,1943,None,< 1yr,4,1,23,2,1,0.68,0.32,TRUE
+No Account,18,Paid Up,Home Related,3190,None,< 1yr,2,1,24,2,1,0.566,0.434,TRUE
+Some Balance,18,No Problems (in this bank),Used car,1808,None,1-4 yrs,4,1,22,2,1,0.89,0.11,TRUE
+No Account,8,Paid Up,Used car,1237,None,< 1yr,3,1,24,2,1,0.802,0.198,TRUE
+No Account,48,Paid Up,Home Related,10961,ý100-ý1000,1-4 yrs,1,4,27,2,More than 1,0.488,0.512,FALSE
+No Account,24,Paid Up,Home Related,1938,None,< 1yr,4,2,32,2,1,0.576,0.424,TRUE
+No Account,21,Paid Up,Home Related,1835,None,< 1yr,3,1,25,2,More than 1,0.374,0.626,FALSE
+No Account,24,No Problems (in this bank),Home Related,1659,None,< 1yr,4,3,29,1,1,0.384,0.616,FALSE
+No Account,6,No Problems (in this bank),Home Related,1209,None,< 1yr,4,2,47,2,1,0.834,0.166,TRUE
+No Account,48,Some Problems,Home Related,3844,< ï¿½1,1-4 yrs,4,4,34,3,1,0.54,0.46,TRUE
+No Account,12,No Problems (in this bank),Home Related,4843,None,4-7 yrs,3,2,43,1,More than 1,0.556,0.444,TRUE
+Some Balance,36,No Problems (in this bank),Home Related,4463,None,< 1yr,4,3,26,2,More than 1,0.696,0.304,TRUE
+No Account,24,Paid Up,New car,11560,None,< 1yr,1,3,23,1,More than 1,0.38,0.62,FALSE
+Some Balance,18,Some Problems,Home Related,4165,None,< 1yr,2,3,36,2,More than 1,0.562,0.438,TRUE
+No Account,24,Paid Up,Used car,4057,None,1-4 yrs,3,3,43,2,1,0.642,0.358,TRUE
+Some Balance,18,Some Problems,Home Related,6458,None,4-7 yrs,2,4,39,2,More than 1,0.6,0.4,TRUE
+No Account,36,Paid Up,Home Related,1977,ý100-ý1000,4-7 yrs,4,4,40,2,1,0.568,0.432,TRUE
+No Account,24,Paid Up,Home Related,11328,None,< 1yr,2,3,29,2,More than 1,0.276,0.724,FALSE
+No Account,60,Some Problems,Home Related,14782,< ï¿½1,4-7 yrs,3,4,60,3,More than 1,0.406,0.594,FALSE
+No Account,12,Some Problems,Home Related,626,None,< 1yr,4,1,24,2,1,0.41,0.59,FALSE
+No Account,36,Paid Up,Home Related,2302,None,< 1yr,4,3,31,1,1,0.332,0.668,FALSE
+No Account,12,Paid Up,Home Related,727,< ï¿½1,< 1yr,4,4,33,2,1,0.382,0.618,FALSE
+Some Balance,48,Paid Up,Home Related,3914,ý100-ý1000,< 1yr,4,1,38,2,1,0.872,0.128,TRUE
+No Account,12,Paid Up,Home Related,1534,None,< 1yr,1,1,23,1,1,0.68,0.32,TRUE
+Some Balance,15,No Problems (in this bank),Home Related,1271,ý100-ý1000,< 1yr,3,4,39,3,More than 1,0.916,0.084,TRUE
+No Account,12,Paid Up,Home Related,1295,None,< 1yr,3,3,25,1,1,0.342,0.658,FALSE
+No Account,12,Paid Up,Used car,951,< ï¿½1,< 1yr,4,3,27,1,More than 1,0.678,0.322,TRUE
+No Account,48,Paid Up,Home Related,3051,None,< 1yr,3,3,54,2,1,0.382,0.618,FALSE
+Some Balance,18,Paid Up,Home Related,433,None,< 1yr,3,1,22,1,1,0.868,0.132,TRUE
+No Account,30,No Problems (in this bank),Home Related,5234,None,< 1yr,4,3,28,2,More than 1,0.148,0.852,FALSE
+No Account,9,Paid Up,Home Related,1366,None,< 1yr,3,2,22,1,1,0.636,0.364,TRUE
+No Account,18,Paid Up,Used car,2473,None,< 1yr,4,3,25,2,1,0.698,0.302,TRUE
+No Account,48,Paid Up,Home Related,7763,None,4-7 yrs,4,4,42,3,1,0.194,0.806,FALSE
+No Account,15,Some Problems,Home Related,1264,< ï¿½1,< 1yr,2,2,25,1,1,0.322,0.678,FALSE
+No Account,48,Paid Up,Home Related,6560,< ï¿½1,1-4 yrs,3,2,24,2,1,0.524,0.476,TRUE
+No Account,24,Paid Up,Home Related,3123,None,< 1yr,4,2,27,2,1,0.606,0.394,TRUE
+No Account,36,No Problems (in this bank),New car,9629,None,1-4 yrs,4,3,24,2,More than 1,0.442,0.558,FALSE
+No Account,18,Paid Up,Used car,1131,None,< 1yr,4,3,33,2,1,0.642,0.358,TRUE
+No Account,18,Paid Up,New car,12976,None,< 1yr,3,4,38,3,1,0.38,0.62,FALSE
+No Account,27,Paid Up,Home Related,3915,None,< 1yr,4,3,36,2,1,0.376,0.624,FALSE
+No Account,12,Paid Up,Home Related,2579,None,< 1yr,4,1,33,2,1,0.736,0.264,TRUE
+No Account,18,Paid Up,Used car,4153,None,< 1yr,2,3,42,2,1,0.684,0.316,TRUE
+No Account,18,Some Problems,Used car,3114,None,< 1yr,1,2,26,1,1,0.56,0.44,TRUE
+No Account,18,No Problems (in this bank),Used car,2124,None,< 1yr,4,1,24,1,More than 1,0.526,0.474,TRUE
+No Account,30,Paid Up,Used car,2406,None,1-4 yrs,4,1,23,1,1,0.692,0.308,TRUE
+No Account,24,No Problems (in this bank),Home Related,1333,None,< 1yr,4,1,43,3,More than 1,0.548,0.452,TRUE
+No Account,12,No Problems (in this bank),Home Related,691,None,4-7 yrs,4,2,35,2,More than 1,0.812,0.188,TRUE
+No Account,42,No Problems (in this bank),Home Related,4370,None,1-4 yrs,3,2,26,2,More than 1,0.35,0.65,FALSE
+No Account,24,Some Problems,Used car,4110,None,4-7 yrs,3,4,23,1,More than 1,0.418,0.582,FALSE
+No Account,18,Paid Up,Used car,2462,None,< 1yr,2,3,22,2,1,0.732,0.268,TRUE
+No Account,12,Paid Up,Used car,1282,None,< 1yr,2,3,20,1,1,0.674,0.326,TRUE
+No Account,12,Some Problems,Used car,2969,None,< 1yr,4,2,25,1,More than 1,0.588,0.412,TRUE
+No Account,48,Some Problems,New car,4605,None,4-7 yrs,3,4,24,3,More than 1,0.502,0.498,TRUE
+No Account,48,No Problems (in this bank),New car,6331,None,4-7 yrs,4,4,46,3,More than 1,0.438,0.562,FALSE
+No Account,27,Some Problems,Home Related,5293,None,< 1yr,2,2,50,2,More than 1,0.382,0.618,FALSE
+No Account,21,No Problems (in this bank),Home Related,3414,None,< 1yr,2,2,26,2,More than 1,0.496,0.504,FALSE
+No Account,48,Paid Up,New car,10297,None,1-4 yrs,4,4,39,3,More than 1,0.41,0.59,FALSE
+No Account,48,Some Problems,Home Related,14421,None,< 1yr,2,3,25,2,1,0.24,0.76,FALSE
+No Account,18,No Problems (in this bank),Home Related,1056,None,4-7 yrs,3,1,30,2,More than 1,0.81,0.19,TRUE
+No Account,12,Paid Up,Home Related,1372,None,1-4 yrs,2,3,36,2,1,0.57,0.43,TRUE
+No Account,18,No Problems (in this bank),Home Related,884,None,4-7 yrs,4,3,36,2,1,0.556,0.444,TRUE
+No Account,36,No Problems (in this bank),Home Related,8086,< ï¿½1,4-7 yrs,2,3,42,2,More than 1,0.598,0.402,TRUE
+Some Balance,48,No Problems (in this bank),Home Related,10127,ý100-ý1000,< 1yr,2,4,44,3,1,0.886,0.114,TRUE
+No Account,36,Paid Up,Home Related,12389,ý100-ý1000,< 1yr,1,4,37,3,1,0.566,0.434,TRUE
+No Account,12,Paid Up,Home Related,709,None,4-7 yrs,4,1,57,2,1,0.706,0.294,TRUE
+No Account,15,Some Problems,Home Related,6850,< ï¿½1,< 1yr,1,2,34,2,1,0.504,0.496,TRUE
+Some Balance,10,Paid Up,Used car,2210,None,< 1yr,2,1,25,1,1,0.95,0.05,TRUE
+Some Balance,30,Some Problems,New car,7485,ý100-ý1000,< 1yr,4,1,53,2,1,0.806,0.194,TRUE
+No Account,45,No Problems (in this bank),Home Related,4746,None,< 1yr,4,2,24,2,More than 1,0.162,0.838,FALSE
+Some Balance,12,No Problems (in this bank),Home Related,939,ý100-ý1000,1-4 yrs,4,1,28,2,More than 1,0.904,0.096,TRUE
+Some Balance,48,No Problems (in this bank),New car,11590,< ï¿½1,< 1yr,2,3,24,1,More than 1,0.624,0.376,TRUE
+Some Balance,12,Some Problems,Home Related,609,None,< 1yr,4,1,26,2,1,0.596,0.404,TRUE
+No Account,18,No Problems (in this bank),Home Related,1190,None,< 1yr,2,4,55,3,More than 1,0.578,0.422,TRUE
+No Account,21,Paid Up,Home Related,2767,< ï¿½1,4-7 yrs,4,3,61,1,More than 1,0.688,0.312,TRUE
+No Account,30,Paid Up,Used car,3441,< ï¿½1,< 1yr,2,3,21,1,1,0.646,0.354,TRUE
+Some Balance,18,Paid Up,Home Related,6761,ý100-ý1000,< 1yr,2,3,68,1,More than 1,0.43,0.57,FALSE
+No Account,54,Some Problems,Home Related,15945,None,< 1yr,3,4,58,1,1,0.188,0.812,FALSE
+No Account,24,Paid Up,Used car,3234,None,< 1yr,4,1,23,1,1,0.664,0.336,TRUE
+No Account,15,Paid Up,Home Related,802,None,4-7 yrs,4,3,37,2,1,0.404,0.596,FALSE
+No Account,21,Some Problems,Home Related,1647,ý100-ý1000,< 1yr,4,2,40,2,More than 1,0.308,0.692,FALSE
+No Account,27,Some Problems,Home Related,8318,None,4-7 yrs,2,4,42,3,More than 1,0.332,0.668,FALSE
+No Account,6,Paid Up,Home Related,448,None,< 1yr,4,2,23,2,1,0.694,0.306,TRUE
+No Account,30,Paid Up,Home Related,11998,None,< 1yr,1,4,34,2,1,0.358,0.642,FALSE
+No Account,12,Paid Up,Used car,2762,ý100-ý1000,4-7 yrs,1,2,25,2,1,0.842,0.158,TRUE
+No Account,12,Paid Up,New car,3386,None,4-7 yrs,3,4,35,3,1,0.84,0.16,TRUE
+No Account,24,Paid Up,Home Related,2039,None,< 1yr,1,2,22,2,1,0.576,0.424,TRUE
+No Account,18,Paid Up,Home Related,1882,None,< 1yr,4,3,25,1,More than 1,0.35,0.65,FALSE
+No Account,48,Paid Up,Home Related,6999,None,1-4 yrs,1,1,34,2,More than 1,0.56,0.44,TRUE
+No Account,18,Paid Up,Home Related,976,None,< 1yr,1,3,23,2,1,0.49,0.51,FALSE
+No Account,24,Paid Up,Home Related,2718,None,< 1yr,3,2,20,1,1,0.502,0.498,TRUE
+No Account,18,Paid Up,Home Related,750,None,< 1yr,4,1,27,2,1,0.692,0.308,TRUE
+No Account,18,No Problems (in this bank),Home Related,3966,None,4-7 yrs,1,1,33,1,More than 1,0.652,0.348,TRUE
+No Account,12,Some Problems,Home Related,6199,None,< 1yr,4,2,28,1,More than 1,0.422,0.578,FALSE
+No Account,24,Paid Up,Home Related,1987,None,< 1yr,2,1,21,1,1,0.462,0.538,FALSE
+No Account,24,Paid Up,Home Related,2303,None,4-7 yrs,4,1,45,2,1,0.746,0.254,TRUE
+No Account,30,Paid Up,Used car,6350,ý100-ý1000,4-7 yrs,4,2,31,2,1,0.626,0.374,TRUE

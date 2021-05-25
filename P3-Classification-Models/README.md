@@ -2,11 +2,14 @@
 
 
 ## Binary Model 
+- Logistic Regression 
+
+- 
+
 **Case of comparing Models**
 
 
 ****
-
 
 
 
