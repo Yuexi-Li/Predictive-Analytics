@@ -108,3 +108,23 @@ T-test: A type of test used to determine if the results of an experiment are sta
 
 Unit of diversion: How units are assigned to either the treatment or control group.
 
+
+
+Matched pair design experiment: An experiment in which treatment and control groups are set up by matching on a unit-by-unit basis using a set of control variables.
+
+Matched pairing: The process of matching each treatment unit to one or more control units, based on their similarity across the set of control variables.
+
+Significance level: 1 - p-value, used to indicate the likelihood that the results of an experiment are significant (>= 95%).
+
+
+Categorical variable: A variable which falls into one of a finite set of distinct categories (e.g. a type of car).
+
+Discrete variable: A numeric variable which has a finite and countable number of possible values (e.g. the number of cars sold).
+
+Gross margin: The cost of goods sold, subtracted from the net revenue gained from selling said goods.
+
+Price elasticity of demand: A measure of the relationship between a change in the quantity of an item that is demanded and a change in that item’s price.
+
+Seasonality: Regular, predictable changes in observed data that recur on a cycle (e.g. sales of Christmas decor increase each year as Christmas approaches).
+
+Trend: A pattern that can be observed in data over time.
