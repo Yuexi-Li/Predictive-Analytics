@@ -1,0 +1,133 @@
+StoreID,Sq_Ft,AvgMonthSales,City,State,Region,Country,Test_Group
+10018,1183,18000,Long Beach,CA,West,US,Control
+10068,1198,16000,La Cresenta,CA,West,US,Control
+10118,1204,13000,Valencia,CA,West,US,Control
+10168,1195,19000,Burbank,CA,West,US,Control
+10218,1193,15000,Rancho Cucamonga,CA,West,US,Control
+10268,1191,25000,West Covina,CA,West,US,Control
+10318,1147,16000,El Cajon,CA,West,US,Control
+10368,1159,19000,San Marcos,CA,West,US,Control
+10418,1146,19000,San Diego,CA,West,US,Control
+10468,1151,21000,San Diego,CA,West,US,Control
+10518,1147,11000,El Centro,CA,West,US,Control
+10568,1192,21000,Redlands,CA,West,US,Control
+10618,1187,15000,Moreno Valley,CA,West,US,Control
+11268,1328,12000,Concord,CA,West,US,Control
+11318,1319,24000,Castro Valley,CA,West,US,Control
+11368,1319,22000,San Leandro,CA,West,US,Control
+11418,1323,15000,Oakland,CA,West,US,Control
+11468,1325,19000,Sausalito,CA,West,US,Control
+11568,1305,21000,San Jose,CA,West,US,Control
+11618,1307,16000,Atwater,CA,West,US,Control
+11668,1345,10000,Santa Rosa,CA,West,US,Control
+11718,1353,21000,Citrus Heights,CA,West,US,Control
+11768,1350,16000,Rancho Cordova,CA,West,US,Control
+11818,1353,15000,Woodland,CA,West,US,Control
+11868,1352,12000,Sacramento,CA,West,US,Control
+12019,1588,11000,Lake Oswego,OR,West,US,Control
+12069,1593,8000,Hillsboro,OR,West,US,Control
+12119,1594,19000,Portland,OR,West,US,Control
+12169,1593,10000,Portland,OR,West,US,Control
+12219,1541,12000,Eugene,OR,West,US,Control
+12269,1586,16000,La Grande,OR,West,US,Control
+12286,1666,11000,Bellevue,WA,West,US,Control
+12486,1663,22000,Seattle,WA,West,US,Control
+12536,1669,12000,Seattle,WA,West,US,Control
+12586,1678,10000,Everett,WA,West,US,Control
+12686,1654,13000,Tacoma,WA,West,US,Control
+12736,1644,18000,Aberdeen,WA,West,US,Control
+12786,1659,16000,East Wenatchee,WA,West,US,Control
+12836,1667,16000,Spokane,WA,West,US,Control
+1508,1457,12000,Altoona,IA,Central,US,Control
+1542,1506,12000,Brookfield,WI,Central,US,Control
+1580,1568,14000,Cottage Grove,MN,Central,US,Control
+1630,1582,17000,Anoka,MN,Central,US,Control
+1662,1471,11000,Arlington Heights,IL,Central,US,Control
+1664,1475,11000,Barrington,IL,Central,US,Test
+1675,1472,15000,Mount Prospect,IL,Central,US,Test
+1696,1471,10000,Schaumburg,IL,Central,US,Test
+1700,1465,15000,Oakbrook Terrace,IL,Central,US,Test
+1712,1456,19000,Orland Park,IL,Central,US,Test
+1762,1469,8000,Chicago,IL,Central,US,Control
+1807,1353,14000,Chesterfield,MO,Central,US,Control
+1857,1296,15000,Nixa,MO,Central,US,Control
+1863,1363,11000,Lawrence,KS,Central,US,Control
+1964,1158,11000,Lucas,TX,Central,US,Control
+2014,1152,16000,Dallas,TX,Central,US,Control
+2114,1049,20000,Houston,TX,Central,US,Control
+2214,1033,15000,San Antonio,TX,Central,US,Control
+2264,1231,8000,Amarillo,TX,Central,US,Control
+2283,1393,18000,Arvada,CO,West,US,Control
+2288,1387,14000,Aurora,CO,West,US,Test
+2293,1394,11000,Westminster,CO,West,US,Test
+2301,1387,11000,Denver,CO,West,US,Test
+2322,1390,14000,Denver,CO,West,US,Test
+2333,1395,8000,Northglenn,CO,West,US,Control
+2341,1400,11000,Boulder,CO,West,US,Test
+2383,1366,10000,Colorado Springs,CO,West,US,Control
+2409,1501,14000,Pocatello,ID,West,US,Control
+2468,1169,13000,Phoenix,AZ,West,US,Control
+2518,1168,13000,Tempe,AZ,West,US,Control
+2568,1220,13000,Sedona,AZ,West,US,Control
+2572,1230,12000,Albuquerque,NM,West,US,Control
+2652,1189,19000,Los Angeles,CA,West,US,Control
+2702,1190,17000,Santa Monica,CA,West,US,Control
+2752,1198,5000,Northridge,CA,West,US,Control
+2802,1142,17000,Chula Vista,CA,West,US,Control
+2852,1154,11000,San Diego,CA,West,US,Control
+2902,1170,17000,San Clemente,CA,West,US,Control
+2952,1246,17000,Lake Isabella,CA,West,US,Control
+3002,1322,17000,San Francisco,CA,West,US,Control
+3052,1323,21000,Oakland,CA,West,US,Control
+3102,1330,10000,Stockton,CA,West,US,Control
+3152,1370,9000,Marysville,CA,West,US,Control
+3185,1583,13000,Canby,OR,West,US,Control
+3235,1541,14000,Eugene,OR,West,US,Control
+3302,1669,19000,Seattle,WA,West,US,Control
+3352,1646,18000,Olympia,WA,West,US,Control
+6992,1455,15000,Des Moines,IA,Central,US,Control
+7037,1503,16000,Greendale,WI,Central,US,Control
+7087,1507,13000,Madison,WI,Central,US,Control
+7162,1584,12000,Otsego,MN,Central,US,Control
+7212,1580,17000,Blaine,MN,Central,US,Control
+7284,1470,15000,Elk Grove Village,IL,Central,US,Control
+7334,1473,10000,Northbrook,IL,Central,US,Control
+7384,1466,10000,Melrose Park,IL,Central,US,Control
+7434,1455,17000,Lockport,IL,Central,US,Control
+7484,1463,15000,Warrenville,IL,Central,US,Control
+7534,1465,12000,Chicago,IL,Central,US,Control
+7584,1463,13000,Chicago,IL,Central,US,Control
+7634,1479,9000,Rockford,IL,Central,US,Control
+7720,1355,9000,"O'Fallon",MO,Central,US,Control
+7770,1354,12000,Sedalia,MO,Central,US,Control
+7811,1363,10000,Overland Park,KS,Central,US,Control
+8112,1155,9000,Richardson,TX,Central,US,Control
+8162,1149,18000,Dallas,TX,Central,US,Control
+8212,1143,8000,Arlington,TX,Central,US,Control
+8262,1150,11000,Fort Worth,TX,Central,US,Control
+8312,1040,19000,Houston,TX,Central,US,Control
+8362,1034,12000,Houston,TX,Central,US,Control
+8562,1036,9000,San Antonio,TX,Central,US,Control
+8717,1397,13000,Broomfield,CO,West,US,Control
+8767,1385,20000,Littleton,CO,West,US,Control
+8817,1390,14000,Denver,CO,West,US,Control
+8867,1395,12000,Denver,CO,West,US,Control
+8917,1405,13000,Longmont,CO,West,US,Control
+8967,1359,17000,Colorado Springs,CO,West,US,Control
+9017,1368,18000,Grand Junction,CO,West,US,Control
+9081,1527,13000,Boise,ID,West,US,Control
+9188,1176,10000,Phoenix,AZ,West,US,Control
+9238,1170,12000,Mesa,AZ,West,US,Control
+9288,1173,8000,Scottsdale,AZ,West,US,Control
+9338,1167,1000,Gilbert,AZ,West,US,Control
+9388,1177,13000,Surprise,AZ,West,US,Control
+9438,1130,14000,Tucson,AZ,West,US,Control
+9488,1220,14000,Sedona,AZ,West,US,Control
+9524,1234,11000,Rio Rancho,NM,West,US,Control
+9589,1263,13000,Las Vegas,NV,West,US,Control
+9639,1265,11000,Las Vegas,NV,West,US,Control
+9768,1193,17000,Hollywood,CA,West,US,Control
+9818,1191,15000,Los Angeles,CA,West,US,Control
+9868,1185,12000,Hermosa Beach,CA,West,US,Control
+9918,1190,16000,Santa Monica,CA,West,US,Control
+9968,1182,16000,Stanton,CA,West,US,Control
