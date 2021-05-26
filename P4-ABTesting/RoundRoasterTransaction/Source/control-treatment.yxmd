@@ -280,9 +280,9 @@
               <PeriodType>
               </PeriodType>
               <PeriodCount>0</PeriodCount>
-              <Operand>Central</Operand>
               <StartDate>2021-05-25 18:44:32</StartDate>
               <EndDate>2021-05-25 18:44:32</EndDate>
+              <Operand>Central</Operand>
             </Operands>
           </Simple>
         </Configuration>

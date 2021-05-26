@@ -212,7 +212,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_25536_59c46b69a1484ee8a0a12ce1b4216e9f_\Engine_24964_53a3eb204b8f4e27b2f740940deea73c_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_7644_f725edf29c71472ea11e34a1de840f20_\Engine_24964_897e7268bdd94a6b84a1a277390a4655_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -240,7 +240,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_25536_59c46b69a1484ee8a0a12ce1b4216e9f_\Engine_24964_ae73de1c7fad4ff894cc3cfc969db85b_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_7644_f725edf29c71472ea11e34a1de840f20_\Engine_24964_d5985972b8ed4a9f834d2d2e15b0a21c_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -268,7 +268,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_25536_59c46b69a1484ee8a0a12ce1b4216e9f_\Engine_24964_fb41f8c386434dd394a1c4c771e5f15d_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_7644_f725edf29c71472ea11e34a1de840f20_\Engine_24964_96c096a732a9400681ec88b888c07cfe_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -296,7 +296,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_25536_59c46b69a1484ee8a0a12ce1b4216e9f_\Engine_24964_1d9ecd882b16441b92956c79209171f4_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_7644_f725edf29c71472ea11e34a1de840f20_\Engine_24964_befc2e42bee64e50bbc383c09390c7d4_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -331,7 +331,7 @@
           <Value name="select.performance.period">Week_End</Value>
           <Value name="select.performance.measure">Sum_Gross Margin</Value>
           <Value name="StartDate">2016-04-29</Value>
-          <Value name="EndDate">2017-07-21</Value>
+          <Value name="EndDate">2016-07-21</Value>
           <Value name="custom.comparison.period">False</Value>
           <Value name="ComparisonStart">2021-05-25</Value>
           <Value name="ComparisonEnd">2021-05-25</Value>
@@ -356,43 +356,21 @@
     </Node>
     <Node ToolID="12">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="630" y="78" />
+        <Position x="630" y="138" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_25536_59c46b69a1484ee8a0a12ce1b4216e9f_\Engine_24964_4b04c342271e4a719e7967ff73fb0c0e_.yxdb</TempFile>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-    </Node>
-    <Node ToolID="13">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="630" y="162" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_25536_59c46b69a1484ee8a0a12ce1b4216e9f_\Engine_24964_b7b77108ff9c40a083b3ba84e1d3ce79_.yxdb</TempFile>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-    </Node>
-    <Node ToolID="14">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="630" y="234" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_25536_59c46b69a1484ee8a0a12ce1b4216e9f_\Engine_24964_49f3014d3a1c4feb87d3cee3a9e715c4_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_7644_f725edf29c71472ea11e34a1de840f20_\Engine_24964_70e36eddf9fd4a2baf93f6b1e59c877c_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints />
+            </View1>
+            <View2 />
+          </Layout>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
@@ -404,11 +382,11 @@
     </Node>
     <Node ToolID="15">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="630" y="318" />
+        <Position x="630" y="222" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_25536_59c46b69a1484ee8a0a12ce1b4216e9f_\Engine_24964_e2d2c33d69d7432196b4b05fea881b48_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_7644_f725edf29c71472ea11e34a1de840f20_\Engine_24964_ba3dda01a9654e96a08d853c625b596e_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -495,14 +473,6 @@
     <Connection>
       <Origin ToolID="11" Connection="Output" />
       <Destination ToolID="12" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="11" Connection="External" />
-      <Destination ToolID="13" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="11" Connection="Grouped Data" />
-      <Destination ToolID="14" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="11" Connection="Interactive Dashboard" />
