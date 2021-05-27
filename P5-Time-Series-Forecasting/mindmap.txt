@@ -1,0 +1,64 @@
+
+# ETS
+## Time series Decomposition plot 
+### Trend (A/M/N)
+###  Sesonality (A/M/N)
+### Error (A/M) 
+
+## Determine pattern 
+### Constant (N)
+### Linear - (A)
+### Exponential -(M)
+
+## Build Model 
+### Internal: in sample error measure 
+- RMSE and MASE
+### External : accuracy 
+- holdout vs. forecasting
+## Choose Model 
+### AIC
+# ARIMA 
+## Non-Seasonal ARIMA (p,d,q) 
+### Stationalizing -> `d` 
+#### take differencing perform (I) till mean ~ 0 
+#### Evalute: ACF 
+###  Auto-regression  `p`
+#### ACF: lag_1 autocorrelation
+- Positive  -> AR 
+- negative  -> MA 
+#### PACF: dropped 
+- gradually -> MA model 
+- at $lag_k$ -> AR(k)
+### Moving Average`q` 
+- can smooth sudden movements of data 
+#### situation 
+- ACF: negatively autocorrelated at $lag_1$
+- ACF: sharply cut off after few lags 
+- PACF decreases graduly 
+
+## Seasonal ARIMA (p,d,q)(P,D,Q)m 
+### Stationalizing (same as ARIMA)
+### AR
+- better when seasonal autocorrelation is positive 
+- ACF slow decay + PACF cut off to 0  
+### MA
+- better when seasonal autocorrelation is negative  
+- ACF cut off toward 0 + PACF decay 
+# Plots 
+## ACF
+### AC
+- the degree of time series is correlated with own past values 
+### Definition:
+- correlation of a time series with itself, lagged by X time units 
+### Usage
+#### check for stationary 
+- is not slow decay toward 0 and is not signficant correlation 
+#### determine 
+##### AR: positive AC at $lag_1$
+##### MA: negative AC at $lag_1$
+## PACF 
+### PAC
+- correlation between two varibles controlling for the values of another set of variables 
+### Usage: set the number 
+#### dropped at $lag_k$ -> AR(k) 
+#### gradually -> MA
