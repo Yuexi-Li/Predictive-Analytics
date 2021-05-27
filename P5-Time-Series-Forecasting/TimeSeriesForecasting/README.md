@@ -23,7 +23,8 @@
      2. Seasonal vs. Cyclical: 
           - Seasonal: repeating pattern at fixed intervals of time. regularly occurring fulctuations up/down within a certain period of time
           - Cyclical: repeating pattern at unfixed intervals (e.g. stock market)
-  
+
+## 1. E.T.S Models 
 ### Basic Models 
 <table>
 <thead>
@@ -58,7 +59,7 @@
 </tbody>
 </table>
 
-## 1. E.T.S Models 
+
 <a id ='t2'></a>
 *Exponential smoothing models*
 - Use weighed average of past observations, giving more weight to the most recent observation with weights gradually getting smaller as the observation gets older. 
@@ -71,8 +72,8 @@
 
 e.g. **ETS(A,A,M):** A time series model that has constant error, linear trend, and increasing seasonality  
 
-![](Source/example1.png)
-- This chart shows   n 
+![](Source/example-1.png)
+- This chart shows increasing trend, constant reminder, and constant seaonality 
 
 ## 2. ARIMA Models 
 <a id ='t3'></a>
@@ -145,9 +146,29 @@ comparing  ETS vs ARIMA criteria:
     - should have a ~0 mean 
   - forecasting errors  
   - Akaike information criteria (AIC)
-  
+    - a measure of relative quality of a statistical model ; deals with tradeoff between the goodness of fit of the model and the complexity of the model
+     
 comparing  forecast criteria:
  - holdout sample vs validation sample 
+
+## Interpreting measure of error 
+### Scale Dependent Errors
+Scale dependent errors, such as mean error (ME) mean percentage error (MPE), mean absolute error (MAE) and root mean squared error (RMSE), are based on a set scale, which for us is our time series, and cannot be used to make comparisons that are on a different scale. For example, we wouldn’t take these error values from a time series model of the sheep population in Scotland and compare it to corn production forecast in the United States.
+
+- **Mean Error (ME)** shows the average of the difference between actual and forecasted values. 
+- **Mean Percentage Error (MPE)** shows the average of the percent difference between actual and forecasted values. Both the ME and MPE will help indicate whether the forecasts are biased to be disproportionately positive or negative.
+- **Root Mean Squared Error (RMSE)** represents the sample standard deviation of the differences between predicted values and observed values. These individual differences are called residuals when the calculations are performed over the data sample that was used for estimation, and are called prediction errors when computed out-of-sample. This is a great measurement to use when comparing models as it shows how many deviations from the mean the forecasted values fall.
+- **Mean Absolute Error (MAE)** takes the sum of the absolute difference from actual to forecast and averages them. It is less sensitive to the occasional very large error because it does not square the errors in the calculation.
+## Percentage Errors
+Percentage errors, like MAPE, are useful because they are scale independent, so they can be used to compare forecasts between different data series, unlike scale dependent errors. The disadvantage is that it cannot be used if the series has zero values.
+
+- **Mean Absolute Percentage Error (MAPE)** is also often useful for purposes of reporting, because it is expressed in generic percentage terms it will make sense even to someone who has no idea what constitutes a "big" error in terms of dollars spent or widgets sold.
+## Scale-Free Errors
+Scale-free errors were introduced more recently to offer a scale-independent measure that doesn't have many of the problems of other errors like percentage errors.
+
+- **Mean Absolute Scaled Error (MASE)** is another relative measure of error that is applicable only to time series data. It is defined as the mean absolute error of the model divided by the the mean absolute value of the first difference of the series. Thus, it measures the relative reduction in error compared to a naive model. Ideally its value will be significantly less than 1 but is relative to comparison across other models for the same series. Since this error measurement is relative and can be applied across models, it is accepted as one of the best metrics for error measurement.
+**** 
+
 ## Glossary
 Additive method: used when trend or seasonality is relatively constant over time
 
@@ -189,3 +210,11 @@ Partial autocorrelation: correlation between two variables controlling for the v
 Seasonal difference: a series of changes from one season to the next
 
 Stationarity: when a time series has a constant mean and variance over time
+
+Akaike Information Criterion (AIC): a measure of the relative quality of a statistical model, used to compare several models produced from the same time series
+
+Confidence interval: an interval within which a forecast value is expected to lie
+
+Holdout sample: a subset of a time series that can be withheld and then used to check the accuracy of a model (also known as a validation sample)
+
+Residual: the difference between an observed value and the forecast value
