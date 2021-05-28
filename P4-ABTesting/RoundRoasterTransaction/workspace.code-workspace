@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/Data Science"
+		},
+		{
+			"path": "../../../../Desktop/SQLTraining"
+		},
+		{
+			"path": "../../../../Desktop/Stats-ABTest"
+		},
+		{
+			"path": "../../../Data-Analyst"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Predictive-Analytics"
+	}
+}

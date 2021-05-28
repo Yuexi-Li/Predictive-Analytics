@@ -8,7 +8,7 @@ Answer the following questions to help you plan out your analysis:
 - Initial findings of the time series showed a complete series exhibiting the 4 key characteristics of time series data. The series is **over a continuous time interval**, of **sequential measurements** across that interval, using equal spacing between every two consecutive measurements and each time unit within the time interval has at most one data point.
 The data collected is composed of monthly sales data dating back to 2008 and going until September 2013. 
 
-2.	Which records should be used as the holdout sample?
+2.	Which records should be used as the holdout sample?  
 - Last 4 records 2013-06 and 2013-09. 
   
 ## Step 2: Determine Trend, Seasonal, and Error components 

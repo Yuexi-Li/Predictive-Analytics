@@ -72,16 +72,16 @@ Treatment Store	Control Store 1	Control Store 2
 
 | Treatment Store | Control Store 1 | Control Store 2 |
 |-----------------|-----------------|-----------------|
-| 1664            |   1857              |   7484          |
-| 1675            | 2114            | 8562            |
-| 1696            | 1964            | 7584            |
-| 1700            | 1508            | 7384            |
-| 1712            | 7284            | 8212            |
-| 2288            | 9081            | 12069            |
-| 2293            | 11568|12219                     |
-| 2301            | 10018|10468                  |
-| 2322            |   2409|3102    |
-| 2341            |  2333|11368      | 
+| 1664            |   7162              |   74881124          |
+| 1675            | 1580            | 1807            |
+| 1696            | 1964            | 1863            |
+| 1700            |     2014        |  1630           |
+| 1712            |   8162          |    1712         |
+| 2288            |    9081         |   2568          |
+| 2293            |       12219|9524               |
+| 2301            | 3102|9238                 |
+| 2322            | 2409|3235  |
+| 2341            | 12536|2383  | 
 		
 
 Here is the detailed workflow of all the processes listed above:
@@ -94,17 +94,17 @@ Here is the detailed workflow of all the processes listed above:
 - Yes, the company should roll out the updated menu to all stores as the lift in profit gross is greater than the 18% benchmark. 
   
 **2.	What is the lift from the new menu for West and Central regions (include statistical significance)?**
-- The lift from the new menu for West is 32.1% with statistical significance. 
+- The lift from the new menu for West is 37.9% with statistical significance. 
   ![](Ref/lift-west.png)
 
 
-- The lift from the new menu for Central is 36.3% with statistical significance. 
+- The lift from the new menu for Central is 43.5% with statistical significance. 
   ![](Ref/lift-central.png)
 
 
 
 **3.	What is the lift from the new menu overall?** 
-  - The lift from the new menu for Overvall is 34.2% with statistical significance. 
+  - The lift from the new menu for Overvall is 40.7% with statistical significance. 
    ![](Ref/lift-overall.png)
 
 ![](Ref/testanalysisworkflow.PNG)
