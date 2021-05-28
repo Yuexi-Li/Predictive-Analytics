@@ -1,0 +1,38 @@
+# Hierachical clustering 
+## Core
+- determining the closest distances between entities
+## Method 
+- Botton up 
+
+- Top down 
+
+## Traits
+- Pro: easy to explain 
+- Cons: slow with larger set of objects 
+
+# Num of Clusters 
+- dendrogram cutoff 
+# K-means 
+## Core
+- finding the objects that are closest to the centroid
+## Traits
+### Pro: more efficient solution  
+### Cons: 
+- works not well on cllusters hav unusual shapes 
+- highly sensitive to outliers (scaling the data)
+
+## Validation 
+
+### Internal 
+#### Using data to create clusters to calculate an index 
+#### Check: 
+- Intra-cluster : compactness 
+- Inter-cluster : distinctness 
+#### Method 
+##### Adjusted Rand Index (ARI) -> cluster stability (compactness)
+##### *Calinski-Harabasz Index (CH)
+   - compactness and distinctness 
+##### Select 
+- higher median and compact spread 
+### External 
+- Using data outside to create the clusters 

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.6.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.2.3"></script><script>((e,t,r)=>{const{Markmap:n}=e();window.mm=n.create("svg#mindmap",null==t?void 0:t(),r)})(()=>window.markmap,t=>{return t=t||window.d3,{color:(n=t.scaleOrdinal(t.schemeCategory10),t=>n(t.p.i))};var n},{"t":"root","d":0,"v":"","c":[{"t":"heading","d":1,"p":{"lines":[0,1]},"v":"Hierachical clustering","c":[{"t":"heading","d":2,"p":{"lines":[1,2]},"v":"Core","c":[{"t":"list_item","d":4,"p":{"lines":[2,3]},"v":"determining the closest distances between entities"}]},{"t":"heading","d":2,"p":{"lines":[3,4]},"v":"Method","c":[{"t":"list_item","d":4,"p":{"lines":[4,5]},"v":"Botton up"},{"t":"list_item","d":4,"p":{"lines":[6,7]},"v":"Top down"}]},{"t":"heading","d":2,"p":{"lines":[8,9]},"v":"Traits","c":[{"t":"list_item","d":4,"p":{"lines":[9,10]},"v":"Pro: easy to explain"},{"t":"list_item","d":4,"p":{"lines":[10,11]},"v":"Cons: slow with larger set of objects"}]}]},{"t":"heading","d":1,"p":{"lines":[12,13]},"v":"Num of Clusters","c":[{"t":"list_item","d":3,"p":{"lines":[13,14]},"v":"dendrogram cutoff"}]},{"t":"heading","d":1,"p":{"lines":[14,15]},"v":"K-means","c":[{"t":"heading","d":2,"p":{"lines":[15,16]},"v":"Core","c":[{"t":"list_item","d":4,"p":{"lines":[16,17]},"v":"finding the objects that are closest to the centroid"}]},{"t":"heading","d":2,"p":{"lines":[17,18]},"v":"Traits","c":[{"t":"heading","d":3,"p":{"lines":[18,19]},"v":"Pro: more efficient solution"},{"t":"heading","d":3,"p":{"lines":[19,20]},"v":"Cons:","c":[{"t":"list_item","d":5,"p":{"lines":[20,21]},"v":"works not well on cllusters hav unusual shapes"},{"t":"list_item","d":5,"p":{"lines":[21,22]},"v":"highly sensitive to outliers (scaling the data)"}]}]},{"t":"heading","d":2,"p":{"lines":[23,24]},"v":"Validation","c":[{"t":"heading","d":3,"p":{"lines":[25,26]},"v":"Internal","c":[{"t":"heading","d":4,"p":{"lines":[26,27]},"v":"Using data to create clusters to calculate an index"},{"t":"heading","d":4,"p":{"lines":[27,28]},"v":"Check:","c":[{"t":"list_item","d":6,"p":{"lines":[28,29]},"v":"Intra-cluster : compactness"},{"t":"list_item","d":6,"p":{"lines":[29,30]},"v":"Inter-cluster : distinctness"}]},{"t":"heading","d":4,"p":{"lines":[30,31]},"v":"Method","c":[{"t":"heading","d":5,"p":{"lines":[31,32]},"v":"Adjusted Rand Index (ARI) -&gt; cluster stability (compactness)"},{"t":"heading","d":5,"p":{"lines":[32,33]},"v":"*Calinski-Harabasz Index (CH)","c":[{"t":"list_item","d":7,"p":{"lines":[33,34]},"v":"compactness and distinctness"}]},{"t":"heading","d":5,"p":{"lines":[34,35]},"v":"Select","c":[{"t":"list_item","d":7,"p":{"lines":[35,36]},"v":"higher median and compact spread"}]}]}]},{"t":"heading","d":3,"p":{"lines":[36,37]},"v":"External","c":[{"t":"list_item","d":5,"p":{"lines":[37,38]},"v":"Using data outside to create the clusters"}]}]}]}],"p":{}})</script>
+</body>
+</html>
