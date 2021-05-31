@@ -80,9 +80,13 @@
 |S0093	| 3|
 |S0094	| 2|
 |S0095	| 2|
+
+
 ![](Ref/store-cluster.png)
+
 ### Alteryx Workflow
 ![](Ref/task2-workflow.png)
+
 ****
 
 ## Task 3: Predicting Produce Sales
@@ -112,21 +116,26 @@ I used ETS model for my forecast.
 Here is my process:
 **Time Series Decomposition**
 ![](Ref/task3-time-series-plot.png)
+
 - From this report, time series decomposition plot, we can tell that :
   - Trend: is zero (N) 
   - Reminder: irregular and no clear pattern so multiplicative  (M)
   - Seasonal: multiplicative (M)
 ![](Ref/task3-acf1.png)
+
 Since the auto correlation from ACF plot is significant, we need to stationalize the time series using differencing method. 
 
 **Stationalizing**
 1. Seasonal difference 
 ![](Ref/task3-seasonal-difference-acf.png)
+
 We can see that ACF plot still show signficant AC when we applied seasonal difference. So lets take the first degree of differenciation to see if that works 
 2. 1st Seasonal difference 
+   
 ![](Ref/task3-seasonal-1st-diff-acf.png)
+
 Now the ACF and PACF both looks good! We'll take the first seasonal difference to correct for seasonality before the dataset stationary.
-3. Check for parameters 
+1. Check for parameters 
    - From non-seasonal ACF and PACF, it has a positive AC and PACF dropped at lag_1 
      hence the p = 1, d= 0, and q = 0
    - From stationalized ACF and PACF, we can see that the seasonal autocorrelation is negative, so we choose MA, 
@@ -142,12 +151,15 @@ Final ARIMA model **ARIMA(1,0,0)(0,1,1)[12]**
 1. Compare in sample errors 
   ETS model 
 ![](Ref/ETS-in-sample-error-table.png)
+
   ARIMA model 
 ![](Ref/arima-in-sample-table.png)
+
 - By comparing the in-sample error, we found ARIMA model has a slighly lower RMSE and MASE. 
 
 2. Model compare by using holdout sample 
   ![](Ref/task3-model-compare-table.png)
+
   - ETS model has better performance in holdout sample with lower RMSE and MASE.
     So i'll choose ETS model for my forecast.
 
@@ -159,10 +171,15 @@ Final ARIMA model **ARIMA(1,0,0)(0,1,1)[12]**
   - 3 new store from segment 3
 Below is the 2016 new stores forecasted revenue 
 ![](Ref/2016-forecast.png)
+
 Below is the 2016 new and existing stores's forecasted revenue 
+
 ![](Ref/tableau-forecast-table.png)
+
 ![](Ref/2016-sales-forecast-tableau.png)
 
 
+
 ### Alteryx Workflow
+
 ![](Ref/task3-alteryx.png)
