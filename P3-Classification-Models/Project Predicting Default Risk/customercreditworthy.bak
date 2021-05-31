@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="1">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="66" y="54" width="264" height="24" />
+        <Position x="54" y="54" width="264" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -23,7 +23,7 @@
     </Node>
     <Node ToolID="13">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="330" y="54" width="204" height="24" />
+        <Position x="318" y="54" width="204" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -43,7 +43,7 @@
     </Node>
     <Node ToolID="18">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="534" y="54" width="600" height="24" />
+        <Position x="522" y="54" width="600" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -63,7 +63,7 @@
     </Node>
     <Node ToolID="49">
       <GuiSettings>
-        <Position x="486" y="198" />
+        <Position x="474" y="198" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -81,7 +81,7 @@
     </Node>
     <Node ToolID="71">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="54" y="138" />
+        <Position x="42" y="138" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -98,6 +98,9 @@
 Query=`Sheet1$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="Credit-Application-Result" size="255" source="File: C:\Users\sara.li\Dropbox\Predictive-Analytics\P3-Classification-Models\Project Predicting Default Risk\credit-data-training.xlsx|||`Sheet1$`" type="V_String" />
@@ -127,7 +130,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="72">
       <GuiSettings>
-        <Position x="618" y="150" />
+        <Position x="606" y="150" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -144,12 +147,15 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\Logistic_Regression.yxmc" />
     </Node>
     <Node ToolID="76">
       <GuiSettings>
-        <Position x="138" y="90" />
+        <Position x="126" y="90" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -165,16 +171,19 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\Field_Summary_Report.yxmc" />
     </Node>
     <Node ToolID="79">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="210" y="114" />
+        <Position x="198" y="114" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_245ab7d48588436fb19beae410929b9c_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_c71b422ab9044a16b65b61234a187824_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -198,7 +207,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="81">
       <GuiSettings>
-        <Position x="138" y="174" />
+        <Position x="126" y="174" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -215,16 +224,19 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\Association_Analysis.yxmc" />
     </Node>
     <Node ToolID="82">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="210" y="162" />
+        <Position x="198" y="162" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_1f308e664ace452398db859c2524e3c7_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_57e42f83b364401491c876741bb46181_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -248,11 +260,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="84">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="210" y="78" />
+        <Position x="198" y="78" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_6e292ea5c6504cd89af72257c5f0054a_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_b9897fb20a984531954a505291dc4d94_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -276,7 +288,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="85">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="126" y="258" />
+        <Position x="114" y="258" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -309,7 +321,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="86">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="354" y="186" />
+        <Position x="342" y="186" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -327,11 +339,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="87">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="498" y="258" />
+        <Position x="486" y="258" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_4d4ebc742ca04c7295dd00887ae97827_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_f407784e78b94c9cb4f11db96fc5d8e4_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -355,11 +367,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="88">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="690" y="174" />
+        <Position x="678" y="174" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_d95424a22b7743dabc059bf058658136_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_81d0e2435f68441ca14f59184b40df74_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -383,7 +395,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="89">
       <GuiSettings>
-        <Position x="702" y="102" />
+        <Position x="690" y="102" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -399,16 +411,19 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\Stepwise.yxmc" />
     </Node>
     <Node ToolID="93">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="798" y="138" />
+        <Position x="786" y="138" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_0166976001284aa3aea7fdf29f2b89a3_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_9d0015cf003f4972a29069527c795b08_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -462,12 +477,15 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\Forest_Model.yxmc" />
     </Node>
     <Node ToolID="96">
       <GuiSettings>
-        <Position x="546" y="534" />
+        <Position x="534" y="534" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -515,12 +533,15 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\Boosted_Model.yxmc" />
     </Node>
     <Node ToolID="94">
       <GuiSettings>
-        <Position x="642" y="246" />
+        <Position x="630" y="246" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -573,16 +594,19 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText>DT</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings Macro="Predictive Tools\Decision_Tree.yxmc" />
     </Node>
     <Node ToolID="97">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="714" y="234" />
+        <Position x="702" y="234" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_c5ba941a693b417d94a062ca57ed020a_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_a30e9bc5e0164b52b8c52376756842f6_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -606,11 +630,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="98">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="702" y="270" />
+        <Position x="690" y="270" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_c0b307b3e7cc49b4957817de97fab242_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_34f044060d804f50b861feda73d26dea_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -634,11 +658,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="99">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="714" y="462" />
+        <Position x="690" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_0f989f91fc244e3e857ff536a7ab8e66_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_9aeb59cad9654fa6885280ebf10c3dd7_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -662,11 +686,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="100">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="618" y="594" />
+        <Position x="642" y="546" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_4b6a53d79b0e4bc8893289e5759e0a59_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_c160f11d18744a1c8a92739334b3ec9c_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -690,7 +714,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="101">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-        <Position x="906" y="270" />
+        <Position x="894" y="270" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -709,7 +733,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="102">
       <GuiSettings>
-        <Position x="990" y="174" />
+        <Position x="978" y="174" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -720,6 +744,9 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="predictions">
           <RecordInfo>
             <Field name="Actual" size="1073741823" source="R-DATA:" type="V_WString" />
@@ -750,11 +777,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="103">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="1074" y="126" />
+        <Position x="1062" y="126" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_b449d256ff9a4b4b9716a331ae7a05a5_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_2a54f2769d624e2d8269d099049d2093_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -778,7 +805,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="104">
       <GuiSettings>
-        <Position x="630" y="510" />
+        <Position x="618" y="498" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -789,6 +816,9 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="predictions">
           <RecordInfo>
             <Field name="Actual" size="1073741823" source="R-DATA:" type="V_WString" />
@@ -816,11 +846,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="105">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="702" y="522" />
+        <Position x="726" y="498" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_161c494d2d3e40d2982b42eac5fa50f9_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_ced2dad3cc644aad88537d52dd45d696_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -844,7 +874,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="106">
       <GuiSettings>
-        <Position x="762" y="402" />
+        <Position x="738" y="402" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -855,6 +885,9 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="predictions">
           <RecordInfo>
             <Field name="Actual" size="1073741823" source="R-DATA:" type="V_WString" />
@@ -882,11 +915,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="107">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="846" y="414" />
+        <Position x="834" y="414" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_5f6335ff9b91452ca49117b6efdef0f2_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_d9857b9b38a24c0caf5bf3a268806ad2_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -910,7 +943,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="108">
       <GuiSettings>
-        <Position x="726" y="318" />
+        <Position x="714" y="318" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -921,6 +954,9 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="predictions">
           <RecordInfo>
             <Field name="Actual" size="1073741823" source="R-DATA:" type="V_WString" />
@@ -948,11 +984,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="109">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="798" y="330" />
+        <Position x="774" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_7aa3b32f4be248d9a0b523bb84524e35_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_3a6d6ba0b1284f74bc449b7c86c4f097_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -976,7 +1012,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="110">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="1134" y="54" width="204" height="24" />
+        <Position x="1122" y="54" width="204" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -996,7 +1032,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="111">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-        <Position x="1002" y="330" />
+        <Position x="990" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1013,6 +1049,9 @@ Query=`Sheet1$`</DefaultAnnotationText>
 Query=`Sheet1$`</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output">
           <RecordInfo>
             <Field name="Account-Balance" size="255" source="File: C:\Users\sara.li\Dropbox\Predictive-Analytics\P3-Classification-Models\Project Predicting Default Risk\customers-to-score.xlsx|||`Sheet1$`" type="V_String" />
@@ -1041,7 +1080,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="112">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="1098" y="330" />
+        <Position x="1086" y="330" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1073,7 +1112,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="113">
       <GuiSettings Plugin="Score">
-        <Position x="1134" y="450" />
+        <Position x="1122" y="450" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1120,11 +1159,11 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="114">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="1242" y="498" />
+        <Position x="1230" y="498" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_31764_92113cd17e534ab4abe11ab38b5bc993_\Engine_29052_33db12a78281477b8e6788ef20fd7d83_.yxdb</TempFile>
+          <TempFile>C:\Users\sara.li\AppData\Local\Temp\Engine_22336_c71b89194a6647c58ebdacce9aa94ecc_\Engine_24168_c0ce418bf3724d0c899b07c203852b08_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -1148,7 +1187,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     </Node>
     <Node ToolID="115">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="1242" y="426" />
+        <Position x="1230" y="426" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -1169,22 +1208,25 @@ Query=`Sheet1$`</DefaultAnnotationText>
           <DefaultAnnotationText>PredictCustomer</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
     </Node>
     <Node ToolID="116">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="1170" y="534" />
+        <Position x="1158" y="534" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <FormulaFields>
-            <FormulaField expression="IF [Creidt__Creditworthy]&gt;([Creidt__Non-Creditworthy] )THEN 1 ELSE 0 ENDIF" field="Flag" size="1073741823" type="V_WString" />
+            <FormulaField expression="IF [Creidt__Creditworthy]&gt;([Creidt__Non-Creditworthy] THEN 1 ELSE 0 ENDIF" field="Flag" size="1073741823" type="V_WString" />
           </FormulaFields>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <DefaultAnnotationText>Flag = IF [Creidt__Creditworthy]&gt;([Creidt__Non-Creditworthy] )THEN 1 ELSE 0 ENDI...</DefaultAnnotationText>
+          <DefaultAnnotationText>Flag = IF [Creidt__Creditworthy]&gt;([Creidt__Non-Creditworthy] THEN 1 ELSE 0 ENDIF...</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
       </Properties>
@@ -1384,7 +1426,7 @@ Query=`Sheet1$`</DefaultAnnotationText>
     <LayoutType>Horizontal</LayoutType>
     <MetaInfo>
       <NameIsFileName value="True" />
-      <Name>customercreditworthy</Name>
+      <Name>project-template</Name>
       <Description />
       <RootToolName />
       <ToolVersion />
