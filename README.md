@@ -37,3 +37,4 @@ Segmentation and Clustering are effective methods for finding patterns in your d
 
 - Project: [Combine Predictive Techniques](P6-Segmentation-and-Clustering/Readme.md)
 
+![](PredictiveAnalyticsCertificate.png)
